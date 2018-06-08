@@ -1,0 +1,53 @@
+﻿#EXTM3U
+
+
+#EXTINF: tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/04/ds-91.jpg" group-title="DESENHO", A Estrela de Belém
+http://contentdelivery.vstreaming.net/movies/aestreladebelem-dub-720p.mp4 
+
+#EXTINF: tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/04/ds-89-210x300.jpg" group-title="DESENHO", Viva – A Vida é uma Festa
+http://contentdelivery.vstreaming.net/movies/vivaavidaeumafesta-dub-720p.mp4 
+
+#EXTINF: tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/04/ds-84.jpg" group-title="DESENHO", O Touro Ferdinando
+http://contentdelivery.vstreaming.net/movies/ferdinand-dub-1080p.mp4 
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", UMA FLORESTA MUITO LOUCA
+http://contentdelivery.vstreaming.net/movies/umaflorestamuitolouca-dub-1080p.mp4 
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+#EXTINF: tvg-logo="https://goo.gl/N3iqtk" group-title="DESENHO", NOME
+
+
+
+
