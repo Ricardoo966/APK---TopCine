@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7KQaSRnqimU/Vs759Reks2I/AAAAAAAAGR4/t_FvV1qX9o8/s1600-r/logo-demo.png" group-title="LANCAMENTOS",NOVIDADES TODA SEMANA
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7KQaSRnqimU/Vs759Reks2I/AAAAAAAAGR4/t_FvV1qX9o8/s1600-r/logo-demo.png" group-title="LANÇAMENTOS",NOVIDADES TODA SEMANA
 https://
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg" group-title="LANÇAMENTOS", Thoroughbreds (LEG)
