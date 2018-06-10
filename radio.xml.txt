@@ -1,105 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Kids 
 http://192.99.150.31:9431
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",MPB 
 http://192.99.150.31:8775
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Bossa Nova 
 http://6d9a.webradio.upx.net.br:9974/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Forró 
 http://192.99.150.31:9019
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Pagode 
 http://6d9a.webradio.upx.net.br:9061/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Anos 2000 
 http://6d9a.webradio.upx.net.br:9940/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Sertanejo 
 http://192.99.150.31:9485
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Funk 
 http://192.99.150.31:9089
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Clássico 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Rock Clássico 
 http://192.99.150.31:9125
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Lounge 
 http://6d9a.webradio.upx.net.br:9064/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Pop Rock 
 http://6d9a.webradio.upx.net.br:8016/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Anos 70 
 http://192.99.150.31:8241
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Anos 80 
 http://192.99.150.31:8697
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Anos 90 
 http://192.99.150.31:8056
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Românticas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Românticas 
 http://192.99.150.31:8962
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Rap Nacional 
 http://192.99.150.31:8377
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Rock Brasil 
 http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Eletrônica 
 http://192.99.150.31:9095
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Festa 
 http://6d9a.webradio.upx.net.br:9070/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Gospel 
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Hip Hop 
 http://192.99.150.31:8721
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Jazz 
 http://192.99.150.31:8042
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Axé 
 http://192.99.150.31:8305
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Brega 
 http://192.99.150.31:9007
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Música Clássica 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Música Clássica 
 http://6d9a.webradio.upx.net.br:9970/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",New Rock 
 http://6d9a.webradio.upx.net.br:8028/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Reggae 
 http://192.99.150.31:8715
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo Universitário 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Sertanejo Universitário 
 http://192.99.150.31:9191
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Pop Hits 
 http://6d9a.webradio.upx.net.br:9046/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Metal 
 http://6d9a.webradio.upx.net.br:9898/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Trilhas Sonoras 
 http://6d9a.webradio.upx.net.br:9896/stream
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!", STUDIO DO AMOR 
 http://192.99.150.31:8962/stream?
  
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", HISTORINHA INFANTIL 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!", HISTORINHA INFANTIL 
 http://192.99.150.31:8371/stream?I
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHPPXl.jpg" group-title="Sound!",Trilhas Sonoras 
 http://6d9a.webradio.upx.net.br:9896/stream
 
 
