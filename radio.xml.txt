@@ -102,6 +102,7 @@ http://192.99.150.31:8371/stream?I
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
 http://6d9a.webradio.upx.net.br:9896/stream
 
+
 EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Movies: La gran apuesta - The Big short 2015 
 https://www.vidio.com/videos/1230290/vjs_playlist.m3u8
  
@@ -126,8 +127,69 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 #EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Teleritmo 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8 
 
+
 #EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Hist tv 
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ddd93C" group-title="VARIEDADES E MUSICAS", VARIEDADES E MUSICAS
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ddd93C" group-title="VARIEDADES E MUSICAS", 1HD MUSIC TELEVISION (ON)
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png" group-title="VARIEDADES E MUSICAS", City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lcb9lGq.png" group-title="VARIEDADES E MUSICAS", Fresh Tv Music
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8SZ1t1f.png" group-title="VARIEDADES E MUSICAS", Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLUDHfq.jpg" group-title="VARIEDADES E MUSICAS", HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4GHrROo.png" group-title="VARIEDADES E MUSICAS", Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7icilYb.png" group-title="VARIEDADES E MUSICAS", MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/G6e1GJ" group-title="VARIEDADES E MUSICAS", MTV AM HD (ON)
+http://mtvam.ru/hlsam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qVGbH7r.png" group-title="VARIEDADES E MUSICAS", MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2vLcYET.jpg" group-title="VARIEDADES E MUSICAS", Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/veNEs7m.jpg" group-title="VARIEDADES E MUSICAS", MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="VARIEDADES E MUSICAS", NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oMDf6OZ.png" group-title="VARIEDADES E MUSICAS", ONE MUSIC
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4FkRdOq.png" group-title="VARIEDADES E MUSICAS", Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m2vH9Nj.png" group-title="VARIEDADES E MUSICAS", Rádio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" group-title="VARIEDADES E MUSICAS", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wIb4ZwM.png" group-title="VARIEDADES E MUSICAS", RUTV
+https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hXLIf9T.png" group-title="VARIEDADES E MUSICAS", Vibbe TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TdznZEH.png" group-title="VARIEDADES E MUSICAS", Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
 
 
 
