@@ -4,6 +4,33 @@
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7KQaSRnqimU/Vs759Reks2I/AAAAAAAAGR4/t_FvV1qX9o8/s1600-r/logo-demo.png" group-title="LANÇAMENTOS",NOVIDADES TODA SEMANA
 https://
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg" group-title="LANÇAMENTOS", Unsane (LEG) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UNSANELEG.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BLSBxDv3UZqnT9KsVsDItrqVKG.jpg" group-title="LANÇAMENTOS", Duda e Os Gnomos (DUB) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DUDAEOSGNOMOSDUB.mp4 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ4MjIxOTYyNF5BMl5BanBnXkFtZTgwMTc3MDg0NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="LANÇAMENTOS", Alex Strangelove (DUB) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALEXSTRANGELOVEDUB.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dOQ1jKzkJZnUKmzE27CvDe07Sc.jpg" group-title="LANÇAMENTOS", Acrimônia (DUB) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACRIMONIADUB.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg" group-title="LANÇAMENTOS", Mary Shelley (LEG) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MARYSHELLEYLEG.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQfvac0Pc8fEe9beS65ewiWMuM.jpg" group-title="LANÇAMENTOS", What We Started (LEG) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/WHATWESTARTEDLEG.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqKw2974z3NNKHlBOrgQCMg5usT.jpg" group-title="LANÇAMENTOS", Dirt (LEG) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIRTLEG.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78aGSMuS3BXJqd3t7rc4CkoHxyD.jpg" group-title="LANÇAMENTOS", Eu Só Posso Imaginar (LEG) 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUSOPOSSOIMAGINARLEG.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="2018", Com Amor - Simon (LEG) http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORSIMON1080LEG.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg" group-title="LANÇAMENTOS", Thoroughbreds (LEG)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THOROUGHBREDSLEG.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWETGfd6FEHGecnKE6JuWeXy90c.jpg" group-title="LANÇAMENTOS", The Escape (LEG)
@@ -378,15 +405,15 @@ http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/D41611277F6CE8F3E2A7/98DD2EB
 #EXTINF:-1 tvg-logo="http://bit.ly/2qVkw8m" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O SOLDADO INVERNAL
 https://tinyurl.com/kbrplay-manutencao
 #EXTINF:-1 tvg-logo="http://bit.ly/2JjwNuS" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA
-http://contentdelivery.vstreaming.net/movies/guardioesgalaxia-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/guardioesgalaxia-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2K8vmAF" group-title="UNIVERSO MARVEL",OS VINGADORES:ERA DE ULTRON
-http://contentdelivery.vstreaming.net/movies/eradeultron-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/eradeultron-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2K8vBf3" group-title="UNIVERSO MARVEL",HOMEM FORMIGA
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/454953CB9F8DB825D5C7/D1B71FD73F1882ED74A5.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2vATcC5" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:GUERRA CIVIL
-http://contentdelivery.vstreaming.net/movies/guerracivil-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/guerracivil-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2vDI8nF" group-title="UNIVERSO MARVEL",DOUTOR ESTRANHO
-http://contentdelivery.vstreaming.net/movies/drestranho-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/drestranho-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qPtEwk" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA 2
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/85D334C1E5A83DE81FE3/1B544A3BDA21D535E586.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Hl3N5v" group-title="UNIVERSO MARVEL",HOMEM ARANHA:DE VOLTA AO LAR
@@ -410,81 +437,81 @@ http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B
 #EXTINF:-1 tvg-logo="http://bit.ly/2GXFJVo" group-title="INFANTIL",COM AMOR VAN GOGH
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="INFANTIL",AS AVENTURAS DE TADEO 2
-http://contentdelivery.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="INFANTIL",SCOOBY DOO E O COMBATE DO SALSICHA
-http://contentdelivery.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2LgO3D9" group-title="INFANTIL",MADAGASCAR 3:OS PROCURADOS
-http://contentdelivery.vstreaming.net/movies/madagascar3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/madagascar3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2wSjjF8" group-title="INFANTIL",O REI LEAO
-http://contentdelivery.vstreaming.net/movies/reileao-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/reileao-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2k8QkUj" group-title="INFANTIL",O REI LEAO 2
-http://contentdelivery.vstreaming.net/movies/reileao2-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/reileao2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2s3Mkbx" group-title="INFANTIL",O REI LEAO 3
-http://contentdelivery.vstreaming.net/movies/reileao3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/reileao3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2LhGrjC" group-title="INFANTIL",UMA FLORESTA MUITO LOUCA
-http://contentdelivery.vstreaming.net/movies/umaflorestamuitolouca-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/umaflorestamuitolouca-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXh2bO" group-title="INFANTIL",A ESTRELA DE BELEM
-http://contentdelivery.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rWr7A8" group-title="INFANTIL",BIG PAI BIG FILHO
-http://contentdelivery.vstreaming.net/movies/bigpai-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/bigpai-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IUnTaQ" group-title="INFANTIL",PICA PAU O FILME
-http://contentdelivery.vstreaming.net/movies/picapau-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/picapau-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rVCpFt" group-title="INFANTIL",UMA FAMILIA FELIZ
-http://contentdelivery.vstreaming.net/movies/familiafeliz-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/familiafeliz-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://contentdelivery.vstreaming.net/movies/pokemon-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/pokemon-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Gyoiut" group-title="INFANTIL",SHREK
-http://contentdelivery.vstreaming.net/movies/shrek-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/shrek-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2KGimC2" group-title="INFANTIL",SHREK 2
-http://contentdelivery.vstreaming.net/movies/shrek2-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/shrek2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lg4IXl" group-title="INFANTIL",SHREK TERCEIRO
-http://contentdelivery.vstreaming.net/movies/shrek3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/shrek3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXlIyy" group-title="INFANTIL",SHREK PARA SEMPRE
-http://contentdelivery.vstreaming.net/movies/shreksempre-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/shreksempre-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2s0I9Ny" group-title="INFANTIL",TOY STORY UM MUNDO DE AVENTURAS
-http://contentdelivery.vstreaming.net/movies/toystory-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/toystory-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lk4H4t" group-title="INFANTIL",TOY STORY 2
-http://contentdelivery.vstreaming.net/movies/toystory2-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/toystory2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IVWwNA" group-title="INFANTIL",TOY STORY 3
-http://contentdelivery.vstreaming.net/movies/toystory3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/toystory3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x4bSuM" group-title="INFANTIL",CARROS 3
-http://contentdelivery.vstreaming.net/movies/carros3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/carros3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IDnAxD" group-title="INFANTIL",DRAGON BALL Z A BATALHA DOS DEUSES
-http://contentdelivery.vstreaming.net/movies/batalhadeuses-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/batalhadeuses-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2J1a1vC" group-title="INFANTIL",MEU MALVADO FAVORITO 3
-http://contentdelivery.vstreaming.net/movies/meumalvado3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/meumalvado3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rXMh1u" group-title="INFANTIL",O PODEROSO CHEFINHO
-http://contentdelivery.vstreaming.net/movies/poderosochefinho-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/poderosochefinho-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x10JuA" group-title="INFANTIL",BOB ESPONJA O FILME
-http://contentdelivery.vstreaming.net/movies/bobesponjaofilme-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/bobesponjaofilme-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IWS80U" group-title="INFANTIL",AVIOES
-http://contentdelivery.vstreaming.net/movies/avioes-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/avioes-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x2mpX9" group-title="INFANTIL",ALVIM E OS ESQUILOS
-http://contentdelivery.vstreaming.net/movies/esquilos-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/esquilos-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rZTsWd" group-title="INFANTIL",ALVIM E OS ESQUILOS 2
-http://contentdelivery.vstreaming.net/movies/esquilos2-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/esquilos2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2khY3iR" group-title="INFANTIL",ALVIM E OS ESQUILOS 3
-http://contentdelivery.vstreaming.net/movies/esquilos3-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/esquilos3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXNKKk" group-title="INFANTIL",OS SMURFS E A VILA PERDIDA
-http://contentdelivery.vstreaming.net/movies/smurfsvilaperdida-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/smurfsvilaperdida-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x0hhTx" group-title="INFANTIL",LEGO BATMAN
-http://contentdelivery.vstreaming.net/movies/legobatman-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/legobatman-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYzgES" group-title="INFANTIL",SAHARA
-http://contentdelivery.vstreaming.net/movies/saara-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/saara-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYByD2" group-title="INFANTIL",PINOQUIO
-http://contentdelivery.vstreaming.net/movies/pinoquio-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/pinoquio-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x19tkh" group-title="INFANTIL",ANGRY BIRDS O FILME
-http://contentdelivery.vstreaming.net/movies/angrybirds-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/angrybirds-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYKk4Z" group-title="INFANTIL",LORAX
-http://contentdelivery.vstreaming.net/movies/lorax-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/lorax-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2x0iBWv" group-title="INFANTIL",A ORIGEM DOS GUARDIOES
-http://contentdelivery.vstreaming.net/movies/origemguardioes-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/origemguardioes-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IxKVEW" group-title="INFANTIL",BRANCA DE NEVE E OS SETE ANOES
-http://contentdelivery.vstreaming.net/movies/brancadeneve-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/brancadeneve-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2IDrkiF" group-title="INFANTIL",PROCURANDO NEMO
-http://contentdelivery.vstreaming.net/movies/nemo-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/nemo-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2L1KccH" group-title="INFANTIL",DETONA RALPH
-http://contentdelivery.vstreaming.net/movies/detonaralph-dub-720p.mp4
+http://deliverycontent.vstreaming.net/movies/detonaralph-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="INFANTIL",ANNIE
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="INFANTIL",A PANTERA COR DE ROSA
