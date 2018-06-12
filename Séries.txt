@@ -1028,17 +1028,17 @@ https://www.blogger.com/video-play.mp4?contentId=5fa53c0e987aa369
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",FEAR THE WALKING DEAD
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x1
 https://www.blogger.com/video-play.mp4?contentId=376628569238435d
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x2
 https://www.blogger.com/video-play.mp4?contentId=3499ef2c661cedd2
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x3
 https://www.blogger.com/video-play.mp4?contentId=558013c6e3651d63
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x4
 https://www.blogger.com/video-play.mp4?contentId=60d62906296d6095
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x5
 https://www.blogger.com/video-play.mp4?contentId=39dd1edae44b5d57
-#EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",1x6
 https://www.blogger.com/video-play.mp4?contentId=467895a2ed8a1f28
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x1
