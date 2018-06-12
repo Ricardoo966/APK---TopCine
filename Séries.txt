@@ -3,1030 +3,1030 @@
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",13 REASONS WHY
 https://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x1
 https://www.blogger.com/video-play.mp4?contentId=5e3829259d89b052
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x2
 https://www.blogger.com/video-play.mp4?contentId=c5a75bc7448b6ba9
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x3
 https://www.blogger.com/video-play.mp4?contentId=41966ae9ad8ee90
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x4
 https://www.blogger.com/video-play.mp4?contentId=53b2a8970adfe012
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x5
 https://www.blogger.com/video-play.mp4?contentId=e99c74dcaf471453
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x6
 https://www.blogger.com/video-play.mp4?contentId=9f483ce8e7bcda14
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x7
 https://www.blogger.com/video-play.mp4?contentId=efece65b8f085636
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x8
 https://www.blogger.com/video-play.mp4?contentId=225f0ab6346c8515
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x9
 https://www.blogger.com/video-play.mp4?contentId=26e662a4d5e1a5e6
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x10
 https://www.blogger.com/video-play.mp4?contentId=d8afbeaeeafc0375
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x11
 https://www.blogger.com/video-play.mp4?contentId=ad049a48802bd0cd
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x12
 https://www.blogger.com/video-play.mp4?contentId=da0ba30a5b9b1acb
-#EXTINF:-1 tvg-logo="http://bit.ly/2He6lq6" group-title="13 REASONS WHY",1x13
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",1x13
 https://www.blogger.com/video-play.mp4?contentId=443fd4e66cfe5d00
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/13-Reasons-Why-203x300.jpg" group-title="13 REASONS WHY",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x1
 https://www.blogger.com/video-play.mp4?contentId=62209130d7c7e50a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x2
 https://www.blogger.com/video-play.mp4?contentId=24296df8d7dfd85d
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x3
 https://www.blogger.com/video-play.mp4?contentId=af26049951cc63d6
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x4
 https://www.blogger.com/video-play.mp4?contentId=ef292f108966827c
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x5
 https://www.blogger.com/video-play.mp4?contentId=8571190f0e66f86a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x6
 https://www.blogger.com/video-play.mp4?contentId=dcfbd3eaf39a7144
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x7
 https://www.blogger.com/video-play.mp4?contentId=a3c104884002ac25
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x8
 https://www.blogger.com/video-play.mp4?contentId=abfa6d31f2fef17
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x9
 https://www.blogger.com/video-play.mp4?contentId=1384a2d91f904f2e
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x10
 https://www.blogger.com/video-play.mp4?contentId=225f317f07bbfb34
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x11
 https://www.blogger.com/video-play.mp4?contentId=49974f137312d3b1
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x12
 https://www.blogger.com/video-play.mp4?contentId=e8f83099c2012d78
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk0a1X" group-title="13 REASONS WHY",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1526702829_ba56e02e6e67c3153c6db691524e7b8fbfdf9ce2.jpg" group-title="13 REASONS WHY",2x13
 https://www.blogger.com/video-play.mp4?contentId=e0362fa16ffcb7ef
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",ALTERED CARBON
 https://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x1
 http://www.blogger.com/video-play.mp4?contentId=e5f295dad5b4d796
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x2
 http://www.blogger.com/video-play.mp4?contentId=26a9dba5b81a1bfa
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x3
 http://www.blogger.com/video-play.mp4?contentId=4fc12a91448b0dcc
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x4
 http://www.blogger.com/video-play.mp4?contentId=5fefaa18e589ecff
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x5
 http://www.blogger.com/video-play.mp4?contentId=a0bc8e7f9dd02c67
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x6
 http://www.blogger.com/video-play.mp4?contentId=a6ff637ba47c718b
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x7
 http://www.blogger.com/video-play.mp4?contentId=a82b729ab1c2f3e4
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x8
 http://www.blogger.com/video-play.mp4?contentId=8e2eea1102a20e93
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x9
 http://www.blogger.com/video-play.mp4?contentId=d9754ba6e1c4bcf9
-#EXTINF:-1 tvg-logo="https://goo.gl/96rrPU" group-title="ALTERED CARBON",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-29.jpg" group-title="ALTERED CARBON",1x10
 http://www.blogger.com/video-play.mp4?contentId=7e3ede55644a19aa
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",AMERICAN GODS
 https://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x1
 https://www.blogger.com/video-play.mp4?contentId=809adf28111eba70
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x2 
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x2 
 https://www.blogger.com/video-play.mp4?contentId=32dfe1a78caa079f
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x3
 https://www.blogger.com/video-play.mp4?contentId=d00d321727848d5a
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x4
 https://www.blogger.com/video-play.mp4?contentId=50355d0f4a9f0f5e
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x5
 https://www.blogger.com/video-play.mp4?contentId=3271d09ff9093b39
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x6 
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x6 
 https://www.blogger.com/video-play.mp4?contentId=2d193128fcf915f5
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x7
 https://www.blogger.com/video-play.mp4?contentId=5c00d0d99b6de3bf
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZxSpi" group-title="AMERICAN GODS",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/aaaaaaaaaaa.jpg" group-title="AMERICAN GODS",1x8
 https://www.blogger.com/video-play.mp4?contentId=d42c6147b519bce7
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",HORROR STORY
 https://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x1
 https://www.blogger.com/video-play.mp4?contentId=b4798761b075adae
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x2
 https://www.blogger.com/video-play.mp4?contentId=13c097dc7d677f68
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x3
 https://www.blogger.com/video-play.mp4?contentId=e2047cb4984322fe
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x4
 https://www.blogger.com/video-play.mp4?contentId=1ce97fed677e8c24
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x5
 https://www.blogger.com/video-play.mp4?contentId=59297baa401ee1cd
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x6
 https://www.blogger.com/video-play.mp4?contentId=974ff5b1b06baccb
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x7
 https://www.blogger.com/video-play.mp4?contentId=289499197cf5220d
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x8
 https://www.blogger.com/video-play.mp4?contentId=39b8696fa958f603
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x9
 https://www.blogger.com/video-play.mp4?contentId=72056a8c9802143
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x10
 https://www.blogger.com/video-play.mp4?contentId=fa12f9517edc169c
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x11
 https://www.blogger.com/video-play.mp4?contentId=9fa7580e4d099761
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLMDqA" group-title="AMERICAN HORROR STORY",1x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",1x12
 https://www.blogger.com/video-play.mp4?contentId=1fc7b10fa2a5e222
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x1
 https://www.blogger.com/video-play.mp4?contentId=23b1fe6b608416e5
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x2
 https://www.blogger.com/video-play.mp4?contentId=4ff5e8ca6a27bcc4
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x3
 https://www.blogger.com/video-play.mp4?contentId=d4afddb7ea155b98
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x4
 https://www.blogger.com/video-play.mp4?contentId=2d57cde3da7e3bb0
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x5
 https://www.blogger.com/video-play.mp4?contentId=b9972a24e12cff67
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x6
 https://www.blogger.com/video-play.mp4?contentId=f663d3b8fc390920
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x7
 https://www.blogger.com/video-play.mp4?contentId=d89b0a1a76f4dd06
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x8
 https://www.blogger.com/video-play.mp4?contentId=cddebf1f910d867a
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x9
 https://www.blogger.com/video-play.mp4?contentId=837a49142e24ccf3
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x10
 https://www.blogger.com/video-play.mp4?contentId=11a3c20ed801748
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x11
 https://www.blogger.com/video-play.mp4?contentId=5f317417aa06248d
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x12
 https://www.blogger.com/video-play.mp4?contentId=7caf58d7c134febc
-#EXTINF:-1 tvg-logo="http://bit.ly/2HAFkwy" group-title="AMERICAN HORROR STORY",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897485_9cf02128208d8488fd0d3042ef4f113487a22892.jpg" group-title="AMERICAN HORROR STORY",2x13
 https://www.blogger.com/video-play.mp4?contentId=71fe92b3c43f3edf
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",3x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x1
 https://www.blogger.com/video-play.mp4?contentId=b05c34b3f0f762fb
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x2
 https://www.blogger.com/video-play.mp4?contentId=c38dc2d816ac9731
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x3
 https://www.blogger.com/video-play.mp4?contentId=41b9e487db01427b
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x4
 https://www.blogger.com/video-play.mp4?contentId=79ee647a020f17b2
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x5
 https://www.blogger.com/video-play.mp4?contentId=d40a48e46c00d45b
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x6
 https://www.blogger.com/video-play.mp4?contentId=189c0d9bb4cac98f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x7
 https://www.blogger.com/video-play.mp4?contentId=c3e330bd0674b05b
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x8
 https://www.blogger.com/video-play.mp4?contentId=c862c2bf1b62d0e5
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x9
 https://www.blogger.com/video-play.mp4?contentId=dc4ed91250c5dfb
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x10
 https://www.blogger.com/video-play.mp4?contentId=bb0e8076667e1d07
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x11
 https://www.blogger.com/video-play.mp4?contentId=493bbc7cf2b4287f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x12
 https://www.blogger.com/video-play.mp4?contentId=1ca775e91e1d3ece
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfnGel" group-title="AMERICAN HORROR STORY",3x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572867_74f2c6d6979ac53893c3ae9efb40f27633e05837.jpg" group-title="AMERICAN HORROR STORY",3x13
 https://www.blogger.com/video-play.mp4?contentId=6bedfcde59bc0a14
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",4x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x1
 https://www.blogger.com/video-play.mp4?contentId=dd590129395bcc21
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x2
 https://www.blogger.com/video-play.mp4?contentId=f007c8a50017d234
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x3
 https://www.blogger.com/video-play.mp4?contentId=6686612ddc1d83f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x4
 https://www.blogger.com/video-play.mp4?contentId=1063bedcf860551
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x5
 https://www.blogger.com/video-play.mp4?contentId=a1953e4faa52f11c
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x6
 https://www.blogger.com/video-play.mp4?contentId=8b9bc66af6780af9
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x7
 https://www.blogger.com/video-play.mp4?contentId=60f7161ded9cac5a
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x8
 https://www.blogger.com/video-play.mp4?contentId=69150e1b683c1d6b
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x9
 https://www.blogger.com/video-play.mp4?contentId=a1f134a3bc85a912
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x10
 https://www.blogger.com/video-play.mp4?contentId=ac783dcc1b754b7a
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x11
 https://www.blogger.com/video-play.mp4?contentId=a474a387944f25cd
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x12
 https://www.blogger.com/video-play.mp4?contentId=20d1bea621ea9c65
-#EXTINF:-1 tvg-logo="http://bit.ly/2HfHHRI" group-title="AMERICAN HORROR STORY",4x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572930_62793576f9d54eb324e47de817f3ee2b71c0f893.jpg" group-title="AMERICAN HORROR STORY",4x13
 https://www.blogger.com/video-play.mp4?contentId=7cf972326a839b35
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",5x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x1
 https://www.blogger.com/video-play.mp4?contentId=6c70a69500a42bd
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x2
 https://www.blogger.com/video-play.mp4?contentId=c1a746a6739f54d5
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x3
 https://www.blogger.com/video-play.mp4?contentId=4f07101f62342813
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x4
 https://www.blogger.com/video-play.mp4?contentId=803746fcd20afa12
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x5
 https://www.blogger.com/video-play.mp4?contentId=b8537550f2d640f9
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x6
 https://www.blogger.com/video-play.mp4?contentId=c082511f255a91d4
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x7
 https://www.blogger.com/video-play.mp4?contentId=c454331cca04f692
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x8
 https://www.blogger.com/video-play.mp4?contentId=917d66c003ef9d61
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x9
 https://www.blogger.com/video-play.mp4?contentId=a3eabc17e2cb13e9
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x10
 https://www.blogger.com/video-play.mp4?contentId=b7ab2d92664ead89
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x11
 https://www.blogger.com/video-play.mp4?contentId=4389cfa83e7390ab
-#EXTINF:-1 tvg-logo="http://bit.ly/2HMlgot" group-title="AMERICAN HORROR STORY",5x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511572990_789848b5cee258a83c68e3e11a78ec8960d62871.jpg" group-title="AMERICAN HORROR STORY",5x12
 https://www.blogger.com/video-play.mp4?contentId=a5a5b1e5b8255ad7
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-6.jpg" group-title="AMERICAN HORROR STORY",6x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x1
 https://www.blogger.com/video-play.mp4?contentId=f1676cac948b6264
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x2
 https://www.blogger.com/video-play.mp4?contentId=4a4709e99fe060d0
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x3
 https://www.blogger.com/video-play.mp4?contentId=4cfbe4dd2fd08f23
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x4
 https://www.blogger.com/video-play.mp4?contentId=5713633bff409555
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x5
 https://www.blogger.com/video-play.mp4?contentId=e8118b1182d7d911
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x6
 https://www.blogger.com/video-play.mp4?contentId=7f4e353b19268a43
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x7
 https://www.blogger.com/video-play.mp4?contentId=71b21c5762f04a55
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x8
 https://www.blogger.com/video-play.mp4?contentId=f852c37a8f800089
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x9
 https://www.blogger.com/video-play.mp4?contentId=f5052ef369ffee4
-#EXTINF:-1 tvg-logo="http://bit.ly/2EZp6rn" group-title="AMERICAN HORROR STORY",6x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573060_3f5d300ed763019e12483cf2f96d9475cd6379da.jpg" group-title="AMERICAN HORROR STORY",6x10
 https://www.blogger.com/video-play.mp4?contentId=7e12011694339538
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",ARROW
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x1
 http://www.blogger.com/video-play.mp4?contentId=10a7f0f3ffb1dbac
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x2
 http://www.blogger.com/video-play.mp4?contentId=15681ac0bb7d5c3
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x3
 http://www.blogger.com/video-play.mp4?contentId=7ec26f49a749daf2
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x4
 http://www.blogger.com/video-play.mp4?contentId=6944254d04eed4ae
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x5
 http://www.blogger.com/video-play.mp4?contentId=b559547a9a01af93
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x6
 http://www.blogger.com/video-play.mp4?contentId=7bd7589e277ca3a2
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x7
 http://www.blogger.com/video-play.mp4?contentId=eac7e98f0daffff4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x8
 http://www.blogger.com/video-play.mp4?contentId=641b2e7ffb4324ee
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x9
 http://www.blogger.com/video-play.mp4?contentId=dda13a5035280455
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x10
 http://www.blogger.com/video-play.mp4?contentId=379052fabe676926
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x11
 http://www.blogger.com/video-play.mp4?contentId=29ae642607b43f6a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x12
 http://www.blogger.com/video-play.mp4?contentId=c7449a355f192b9b
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x13
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x13
 http://www.blogger.com/video-play.mp4?contentId=dd0d082d1516b975
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x14
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x14
 http://www.blogger.com/video-play.mp4?contentId=f4a0e9216b301d16
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x15
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x15
 http://www.blogger.com/video-play.mp4?contentId=5e24632066496b49
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x16
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x16
 http://www.blogger.com/video-play.mp4?contentId=3544b05bacfd6715
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x17
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x17
 http://www.blogger.com/video-play.mp4?contentId=a35b0f81fd33082
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x18
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x18
 http://www.blogger.com/video-play.mp4?contentId=cb884c3e651dd0d9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x19
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x19
 http://www.blogger.com/video-play.mp4?contentId=e8b821b1ebdf5555
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x20
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x20
 http://www.blogger.com/video-play.mp4?contentId=50e7f5e6c1790e11
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x21
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x21
 http://www.blogger.com/video-play.mp4?contentId=311f7dd67053b1ec
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x22
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x22
 http://www.blogger.com/video-play.mp4?contentId=9c64a2995432f0b4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hd6tlD" group-title="ARROW",1x23
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",1x23
 http://www.blogger.com/video-play.mp4?contentId=3ecea9ffc51f4e0c
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x1
 http://www.blogger.com/video-play.mp4?contentId=fe4cbd55c7c861bd
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x2
 http://www.blogger.com/video-play.mp4?contentId=3b601d2507d06804
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x3
 http://www.blogger.com/video-play.mp4?contentId=807a1cbdc6bf4bdc
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x4
 http://www.blogger.com/video-play.mp4?contentId=c5b01b71e5261d48
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x5
 http://www.blogger.com/video-play.mp4?contentId=21d522aa8ce53c9e
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x6
 http://www.blogger.com/video-play.mp4?contentId=6cc24cac9cac37ad
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x7
 http://www.blogger.com/video-play.mp4?contentId=b545b97f0a1a34ef
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x8
 http://www.blogger.com/video-play.mp4?contentId=f1545872a3f4b74f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x9
 http://www.blogger.com/video-play.mp4?contentId=1d1e117eda3d4147
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x10
 http://www.blogger.com/video-play.mp4?contentId=7d044d54595f3146
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x11
 http://www.blogger.com/video-play.mp4?contentId=58b9559ffa903df
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x12
 http://www.blogger.com/video-play.mp4?contentId=c1bb55e666492b21
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x13
 http://www.blogger.com/video-play.mp4?contentId=335180f2e6b8bd15
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x14
 http://www.blogger.com/video-play.mp4?contentId=aa96f73512c9f66f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x15
 http://www.blogger.com/video-play.mp4?contentId=cd77714637410182
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x16
 http://www.blogger.com/video-play.mp4?contentId=20e3a5861fdcf03f
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x17
 http://www.blogger.com/video-play.mp4?contentId=1feba48ffb39e9fa
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x18
 http://www.blogger.com/video-play.mp4?contentId=e4a7158e47f0c856
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x19
 http://www.blogger.com/video-play.mp4?contentId=27cf4d24b802abab
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x20
 http://www.blogger.com/video-play.mp4?contentId=36e57262f1453acb
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x21
 http://www.blogger.com/video-play.mp4?contentId=22e10289afd904cc
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x22
 http://www.blogger.com/video-play.mp4?contentId=893ffe235a8ac42e
-#EXTINF:-1 tvg-logo="http://bit.ly/2HB5GOE" group-title="ARROW",2x23
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573578_8b604aa4f31365ab706c5db84b35c53b5ca6876a.jpg" group-title="ARROW",2x23
 http://www.blogger.com/video-play.mp4?contentId=9fca7e42ce1c9bbb
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",3x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x1
 http://www.blogger.com/video-play.mp4?contentId=eb413b3deae39a88
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x2
 http://www.blogger.com/video-play.mp4?contentId=539590cb12d3833
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x3
 http://www.blogger.com/video-play.mp4?contentId=26c3870cb2da017a
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x4
 http://www.blogger.com/video-play.mp4?contentId=c61eb1ca63ca681a
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x5
 http://www.blogger.com/video-play.mp4?contentId=f1c714fea0ddf12
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x6
 http://www.blogger.com/video-play.mp4?contentId=7efb6ed28eb04b5
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x7
 http://www.blogger.com/video-play.mp4?contentId=85b8e4dad18b5001
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x8
 http://www.blogger.com/video-play.mp4?contentId=52c5cf4c43e8fe18
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x9
 http://www.blogger.com/video-play.mp4?contentId=e995cfc6f5e0f5cd
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x10
 http://www.blogger.com/video-play.mp4?contentId=b744b69318c02d51
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x11
 http://www.blogger.com/video-play.mp4?contentId=e717d4622c09dc9
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x12
 http://www.blogger.com/video-play.mp4?contentId=fe2e3aa55ecb1ae3
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x13
 http://www.blogger.com/video-play.mp4?contentId=953c32a93cce00ad
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x14
 http://www.blogger.com/video-play.mp4?contentId=cbdb0c0161e62e2e
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x15
 http://www.blogger.com/video-play.mp4?contentId=bacc3e16abc3fc42
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x16
 http://www.blogger.com/video-play.mp4?contentId=30336be12b430c78
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x17
 http://www.blogger.com/video-play.mp4?contentId=4e203e3e238f46a6
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x18
 http://www.blogger.com/video-play.mp4?contentId=e677cade37acf665
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x19
 http://www.blogger.com/video-play.mp4?contentId=22ea74a19b4cf02b
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x20
 http://www.blogger.com/video-play.mp4?contentId=d358b149c982465f
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x21
 http://www.blogger.com/video-play.mp4?contentId=19a15a4a6dd48f74
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x22
 http://www.blogger.com/video-play.mp4?contentId=9e9f0af0640459d
-#EXTINF:-1 tvg-logo="http://bit.ly/2qLarMd" group-title="ARROW",3x23
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573655_288f72527d5c7570600e0e992e868f135e71af3b.jpg" group-title="ARROW",3x23
 http://www.blogger.com/video-play.mp4?contentId=2bf82e6b53934b2b
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",4x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x1
 http://www.blogger.com/video-play.mp4?contentId=53e6ca94701b564c
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x2
 http://www.blogger.com/video-play.mp4?contentId=54c5a506376d8c34
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x3
 http://www.blogger.com/video-play.mp4?contentId=7e92f5bac986e869
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x4
 http://www.blogger.com/video-play.mp4?contentId=a5233452a615d6a9
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x5
 http://www.blogger.com/video-play.mp4?contentId=668b6466e4fa8140
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x6
 http://www.blogger.com/video-play.mp4?contentId=8701d03f8cb2a3c5
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x7
 http://www.blogger.com/video-play.mp4?contentId=7fc7d9dbe488cf0a
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x8
 http://www.blogger.com/video-play.mp4?contentId=8e0b40eff8e8c34d
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x9
 http://www.blogger.com/video-play.mp4?contentId=12c1d396640dc9a6
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x10
 http://www.blogger.com/video-play.mp4?contentId=f821a7d407029e06
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x11
 http://www.blogger.com/video-play.mp4?contentId=2332bd89c55c9607
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x12
 http://www.blogger.com/video-play.mp4?contentId=e641ac79908ceaa
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x13
 http://www.blogger.com/video-play.mp4?contentId=b583fc72891c2fbc
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x14
 http://www.blogger.com/video-play.mp4?contentId=edde03112f7e243f
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x15
 http://www.blogger.com/video-play.mp4?contentId=bb4da74538116ec
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x16
 http://www.blogger.com/video-play.mp4?contentId=9364b1f0ed643d6b
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x17
 http://www.blogger.com/video-play.mp4?contentId=e1b6a3e84aad1740
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x18
 http://www.blogger.com/video-play.mp4?contentId=c845944cb243ed42
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x19
 http://www.blogger.com/video-play.mp4?contentId=9efcfc6ef1b15a84
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x20
 http://www.blogger.com/video-play.mp4?contentId=6c56744b929ac982
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x21
 http://www.blogger.com/video-play.mp4?contentId=4bf6bd2c1a1fe35
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x22
 http://www.blogger.com/video-play.mp4?contentId=58352c46ead2fd76
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBerns" group-title="ARROW",4x23
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573758_7f4a49fe2e399a8f4ae8c2797deba35a5385b442.jpg" group-title="ARROW",4x23
 http://www.blogger.com/video-play.mp4?contentId=e7bbfaf2b01b775b
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",5x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x1
 https://www.blogger.com/video-play.mp4?contentId=fd7a346c659497f8
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x2
 https://www.blogger.com/video-play.mp4?contentId=5affb0457fc9d211
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x3
 https://www.blogger.com/video-play.mp4?contentId=18d2a0d9da754a6f
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x4
 https://www.blogger.com/video-play.mp4?contentId=b77edd989b4a75ca
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x5
 https://www.blogger.com/video-play.mp4?contentId=2ca34addb7a9166d
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x6
 https://www.blogger.com/video-play.mp4?contentId=fcfba04ffc7570c4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x7
 https://www.blogger.com/video-play.mp4?contentId=be771a27ab35b272
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x8
 https://www.blogger.com/video-play.mp4?contentId=7a7743f886389459
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x9
 https://www.blogger.com/video-play.mp4?contentId=37c6be6b86479aea
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x10
 https://www.blogger.com/video-play.mp4?contentId=4e1bbd1b90347092
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x11
 https://www.blogger.com/video-play.mp4?contentId=9915fbb447152dee
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x12
 https://www.blogger.com/video-play.mp4?contentId=c21e88f91317d026
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x13
 https://www.blogger.com/video-play.mp4?contentId=ecd509ae28ccfbd2
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x14
 https://www.blogger.com/video-play.mp4?contentId=50885e9a31073725
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x15
 https://www.blogger.com/video-play.mp4?contentId=90a3f53844fec514
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x16
 https://www.blogger.com/video-play.mp4?contentId=f4428c4fb971b9b8
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x17
 https://www.blogger.com/video-play.mp4?contentId=d55deec54d282f89
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x18
 https://www.blogger.com/video-play.mp4?contentId=eaa55bd3715b2696
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x19
 https://www.blogger.com/video-play.mp4?contentId=10dca34bda4f3689
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x20
 https://www.blogger.com/video-play.mp4?contentId=6f3efb77a1c578a2
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x21
 https://www.blogger.com/video-play.mp4?contentId=1a09a3c0e674f4ee
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x22
 https://www.blogger.com/video-play.mp4?contentId=f5631bc812fd0778
-#EXTINF:-1 tvg-logo="http://bit.ly/2JZP2GW" group-title="ARROW",5x23
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511897602_3ce93fd2b41dacb4b8f30cf5a5bd89131199a875.jpg" group-title="ARROW",5x23
 https://www.blogger.com/video-play.mp4?contentId=8bdd84f226701060
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/arrow-236x300.jpg" group-title="ARROW",6x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x1
 http://www.blogger.com/video-play.mp4?contentId=5a2c2eefa5fa130e
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x2
 http://www.blogger.com/video-play.mp4?contentId=afe04d78e4ea7a43
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x3
 http://www.blogger.com/video-play.mp4?contentId=7a77ed897dc8490f
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x4
 http://www.blogger.com/video-play.mp4?contentId=f6d38fc689d353a4
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x5
 http://www.blogger.com/video-play.mp4?contentId=11e04d859f683e3c
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x6
 https://www.blogger.com/video-play.mp4?contentId=79a11073c616fabe
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x7
 https://www.blogger.com/video-play.mp4?contentId=ec60a640bb90312f
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x8
 https://www.blogger.com/video-play.mp4?contentId=d80be6ad127a5867
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x9
 https://www.blogger.com/video-play.mp4?contentId=f41e3501f796fe28
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x10
 https://www.blogger.com/video-play.mp4?contentId=dbfde3c301a0dba7
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x11
 https://www.blogger.com/video-play.mp4?contentId=577807c161c7026b
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x12
 https://www.blogger.com/video-play.mp4?contentId=12547638dc197fbb
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x13
 https://www.blogger.com/video-play.mp4?contentId=74c22304fb976bc2
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x14
 https://www.blogger.com/video-play.mp4?contentId=b346daab725703d9
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x15
 https://www.blogger.com/video-play.mp4?contentId=5b303a8b070a5e13
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x16
 https://www.blogger.com/video-play.mp4?contentId=4e2076d39beb9c7b
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x17
 https://www.blogger.com/video-play.mp4?contentId=de3096bd77234c1f
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x18
 https://www.blogger.com/video-play.mp4?contentId=57e08914cd862644
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x19
 https://www.blogger.com/video-play.mp4?contentId=2b2689c9399fa0c1
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x20
 https://www.blogger.com/video-play.mp4?contentId=b87a66e0a3ba9d42
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x21
 https://www.blogger.com/video-play.mp4?contentId=831a5b0773d86700
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x22
 https://www.blogger.com/video-play.mp4?contentId=a605709b0d4fe628
-#EXTINF:-1 tvg-logo="http://bit.ly/2vuH3yy" group-title="ARROW",6x23(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511573904_2070e8cd57c7f18d7a2a4c8223c1a856590b4e19.jpg" group-title="ARROW",6x23(LEG)
 https://www.blogger.com/video-play.mp4?contentId=95f6538dcd58471e
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",BAND OF BROTHERS
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x1(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x1(LEG)
 http://www.blogger.com/video-play.mp4?contentId=cbac82cdbadde7fa
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x2(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x2(LEG)
 http://www.blogger.com/video-play.mp4?contentId=9f2cbf8299bc2251
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x3(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x3(LEG)
 http://www.blogger.com/video-play.mp4?contentId=d3776611aa2f15ac
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x4(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x4(LEG)
 http://www.blogger.com/video-play.mp4?contentId=663dde8e63f56184
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x5(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x5(LEG)
 http://www.blogger.com/video-play.mp4?contentId=1037d4c702ce3bf3
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x6(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x6(LEG)
 http://www.blogger.com/video-play.mp4?contentId=afca797802891b1a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x7(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x7(LEG)
 http://www.blogger.com/video-play.mp4?contentId=4101acfcf6b6af96
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x8(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x8(LEG)
 http://www.blogger.com/video-play.mp4?contentId=39ad2bf4b1690f5a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x9(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x9(LEG)
 http://www.blogger.com/video-play.mp4?contentId=dc7647bacd53a01e
-#EXTINF:-1 tvg-logo="http://bit.ly/2Holoso" group-title="BAND OF BROTHERS",1x10(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/bra.jpg" group-title="BAND OF BROTHERS",1x10(LEG)
 http://www.blogger.com/video-play.mp4?contentId=c6fadd4d611ada64
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",BLACK LIGHTNING
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x1
 https://www.blogger.com/video-play.mp4?contentId=27e8d3e017cc6249
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x2
 https://www.blogger.com/video-play.mp4?contentId=acea137460328d67
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x3
 https://www.blogger.com/video-play.mp4?contentId=4a5dbf8f105bc9b9
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x4
 https://www.blogger.com/video-play.mp4?contentId=d05b506d2adf35b1
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x5
 https://www.blogger.com/video-play.mp4?contentId=7504ef711d4da63d
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x6
 https://www.blogger.com/video-play.mp4?contentId=a64862a11d8592f8
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x7
 https://www.blogger.com/video-play.mp4?contentId=39993401a994f9c8
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x8
 https://www.blogger.com/video-play.mp4?contentId=e70728f4874c4897
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x9
 https://www.blogger.com/video-play.mp4?contentId=a1d877979bbfc4d4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x10
 https://www.blogger.com/video-play.mp4?contentId=dbc59a74508033e3
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x11
 https://www.blogger.com/video-play.mp4?contentId=6bd7170bdcbab0d2
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x12(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x12(LEG)
 https://www.blogger.com/video-play.mp4?contentId=9ab469ae5f0212da
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXEJmJ" group-title="BLACK LIGHTNING",1x13(LEG)
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/ds-284.jpg" group-title="BLACK LIGHTNING",1x13(LEG)
 https://www.blogger.com/video-play.mp4?contentId=35cae899da30b179
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",BLINDSPOT
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x1
 https://www.blogger.com/video-play.mp4?contentId=d594bf23559a124b
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x2
 https://www.blogger.com/video-play.mp4?contentId=682e6e2bca43a53f
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x3
 https://www.blogger.com/video-play.mp4?contentId=66cc9a2186f4de37
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x4
 https://www.blogger.com/video-play.mp4?contentId=db4e62fd80efab92
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x5
 https://www.blogger.com/video-play.mp4?contentId=876f3c164ee0c80b
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x6
 https://www.blogger.com/video-play.mp4?contentId=fe15767e91d6e491
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x7
 https://www.blogger.com/video-play.mp4?contentId=5eb09fc1096aa318
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x8
 https://www.blogger.com/video-play.mp4?contentId=124833cf8cb74f6e
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x9
 https://www.blogger.com/video-play.mp4?contentId=e7cb71b57a5094eb
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x10
 https://www.blogger.com/video-play.mp4?contentId=cad37ad7958797e8
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x11
 https://www.blogger.com/video-play.mp4?contentId=ca35c0794cb9052
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x12
 https://www.blogger.com/video-play.mp4?contentId=d78a306849c127f
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x13
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x13
 https://www.blogger.com/video-play.mp4?contentId=5272a7792fc27363
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x14
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x14
 https://www.blogger.com/video-play.mp4?contentId=862deff81fe754c7
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x15
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x15
 https://www.blogger.com/video-play.mp4?contentId=8ae999eeab11bf87
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x16
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x16
 https://www.blogger.com/video-play.mp4?contentId=5976e7d407bc7a0a
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x17
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x17
 https://www.blogger.com/video-play.mp4?contentId=5976e7d407bc7a0a
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x18
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x18
 https://www.blogger.com/video-play.mp4?contentId=3a8a0ed52378972e
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x19
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x19
 https://www.blogger.com/video-play.mp4?contentId=733e36a5487ec951
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x20
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x20
 https://www.blogger.com/video-play.mp4?contentId=65c357ff9ea18bc6
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x21
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x21
 https://www.blogger.com/video-play.mp4?contentId=afbbd4ba60797e5c
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x22
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x22
 https://www.blogger.com/video-play.mp4?contentId=c4d23877dab816a4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LofCJC" group-title="BLINDSPOT",1x23
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",1x23
 https://www.blogger.com/video-play.mp4?contentId=2f6e126d872cb268
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x1
 https://www.blogger.com/video-play.mp4?contentId=2f515840553a20
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x2
 https://www.blogger.com/video-play.mp4?contentId=5531be382be0817c
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x3
 https://www.blogger.com/video-play.mp4?contentId=2e27417ededa7268
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x4
 https://www.blogger.com/video-play.mp4?contentId=a809665717c3f13
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x5
 https://www.blogger.com/video-play.mp4?contentId=b54ff9d251260cbd
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x6
 https://www.blogger.com/video-play.mp4?contentId=82b7ced46d9ebd91
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x7
 https://www.blogger.com/video-play.mp4?contentId=eccf62835aac93ab
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x8
 https://www.blogger.com/video-play.mp4?contentId=e458c2d81f44cb57
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x9
 https://www.blogger.com/video-play.mp4?contentId=6aad64b2101413b
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x10
 https://www.blogger.com/video-play.mp4?contentId=20b82e921fc577f7
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x11
 https://www.blogger.com/video-play.mp4?contentId=afa0d2f9fb8fbd76
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x12
 https://www.blogger.com/video-play.mp4?contentId=2fe5a530a56aaf47
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x13
 https://www.blogger.com/video-play.mp4?contentId=92ed3be9e111eb7
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x14
 https://www.blogger.com/video-play.mp4?contentId=dcbb73e92b3396ea
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x15
 https://www.blogger.com/video-play.mp4?contentId=6fbabd7f85af3603
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x16
 https://www.blogger.com/video-play.mp4?contentId=e99dc07547df7c74
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x17
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x17
 https://www.blogger.com/video-play.mp4?contentId=f677177225dfea10
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x18
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x18
 https://www.blogger.com/video-play.mp4?contentId=f2f830caa16fbe64
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x19
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x19
 https://www.blogger.com/video-play.mp4?contentId=5e063668154ece9b
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x20
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x20
 https://www.blogger.com/video-play.mp4?contentId=d7cf9ef2f462825f
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x21
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x21
 https://www.blogger.com/video-play.mp4?contentId=c2e19e5a68b18caf
-#EXTINF:-1 tvg-logo="http://bit.ly/2sB32zJ" group-title="BLINDSPOT",2x22
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575709_2debe3afa59c954c56a927cd26df508305c7d6e9.jpg" group-title="BLINDSPOT",2x22
 https://www.blogger.com/video-play.mp4?contentId=9f56a9c1f3861667
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/blind.png" group-title="BLINDSPOT",3x1(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x1(LEG)
 https://www.blogger.com/video-play.mp4?contentId=484e2f26020cccd9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x2(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x2(LEG)
 https://www.blogger.com/video-play.mp4?contentId=33bbe1834ee9dff2
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x3(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x3(LEG)
 https://www.blogger.com/video-play.mp4?contentId=695c7435955a1adb
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x4(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x4(LEG)
 https://www.blogger.com/video-play.mp4?contentId=ffa7d6453d4708c0
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x5(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x5(LEG)
 https://www.blogger.com/video-play.mp4?contentId=5555d33692ff50e7
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x6(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x6(LEG)
 https://www.blogger.com/video-play.mp4?contentId=6f615c4d90d5fb66
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x7(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x7(LEG)
 https://www.blogger.com/video-play.mp4?contentId=affee967fcdeb4ba
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x8(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x8(LEG)
 https://www.blogger.com/video-play.mp4?contentId=ffcd3d191b8399d3
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x9(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x9(LEG)
 https://www.blogger.com/video-play.mp4?contentId=75542464b6db2e80
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x10(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x10(LEG)
 https://www.blogger.com/video-play.mp4?contentId=5c28d52d5a634d1
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x11(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x11(LEG)
 https://www.blogger.com/video-play.mp4?contentId=5ca5e8c93490dd3c
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x12(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x12(LEG)
 https://www.blogger.com/video-play.mp4?contentId=c930f307a5e5a03f
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x13(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x13(LEG)
 https://www.blogger.com/video-play.mp4?contentId=7048e12b617a0d3f
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x14(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x14(LEG)
 https://www.blogger.com/video-play.mp4?contentId=6390cb8c5d9eba08
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x15(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x15(LEG)
 https://www.blogger.com/video-play.mp4?contentId=2e0c33312ded0688
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x16(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x16(LEG)
 https://www.blogger.com/video-play.mp4?contentId=12b316568265b60a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x17(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x17(LEG)
 https://www.blogger.com/video-play.mp4?contentId=da534b166ec4cce9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x18(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x18(LEG)
 https://www.blogger.com/video-play.mp4?contentId=42598b37c8e72e4e
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x19(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x19(LEG)
 https://www.blogger.com/video-play.mp4?contentId=e4d6c04738212b65
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x20(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x20(LEG)
 https://www.blogger.com/video-play.mp4?contentId=367db731e8e9fb3c
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x21(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x21(LEG)
 https://www.blogger.com/video-play.mp4?contentId=dcfbf57582e2ef9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jq8OLj" group-title="BLINDSPOT",3x22(LEG)
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511575782_f60ea11dae27e2535f4ddc787bef8f10d045f218.jpg" group-title="BLINDSPOT",3x22(LEG)
 https://www.blogger.com/video-play.mp4?contentId=a4f35620638bf98a
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",BREAKING BAD
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x1
 http://www.blogger.com/video-play.mp4?contentId=d61b31ce63821944
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x2
 http://www.blogger.com/video-play.mp4?contentId=b4e28219ff5f38d6
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x3
 http://www.blogger.com/video-play.mp4?contentId=61ced6e6585a2d17
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x4
 http://www.blogger.com/video-play.mp4?contentId=9a417a760bc4afde
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x5
 http://www.blogger.com/video-play.mp4?contentId=92634810ecfa383
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x6
 http://www.blogger.com/video-play.mp4?contentId=55fd3f7e540b564b
-#EXTINF:-1 tvg-logo="http://bit.ly/2GyKSml" group-title="BREAKING BAD",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",1x7
 http://www.blogger.com/video-play.mp4?contentId=27b1cfe3924d213a
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x1
 http://www.blogger.com/video-play.mp4?contentId=f7bd2d769f6e5fea
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x2
 http://www.blogger.com/video-play.mp4?contentId=681e847184a1b4db
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x3
 http://www.blogger.com/video-play.mp4?contentId=d6eb93a000f0abb4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x4
 http://www.blogger.com/video-play.mp4?contentId=f4632e25fc983a4b
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x5
 http://www.blogger.com/video-play.mp4?contentId=5f85a1ff4549bc5a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x6
 http://www.blogger.com/video-play.mp4?contentId=5cbb166161395058
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x7
 http://www.blogger.com/video-play.mp4?contentId=9447b770eca43515
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x8
 http://www.blogger.com/video-play.mp4?contentId=5ea62089127fb4df
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x9
 http://www.blogger.com/video-play.mp4?contentId=660820b5055dd2da
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x10
 http://www.blogger.com/video-play.mp4?contentId=a0fc9a33c6d9dd92
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x11
 http://www.blogger.com/video-play.mp4?contentId=60c3015fdce0a625
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x12
 http://www.blogger.com/video-play.mp4?contentId=8d8899e6d74c0595
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iv7rhY" group-title="BREAKING BAD",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525262471_34be2236e9a9376a4d75944b31f10952e2935aca.jpg" group-title="BREAKING BAD",2x13
 http://www.blogger.com/video-play.mp4?contentId=a3e476653474775f
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",3x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x1
 http://www.blogger.com/video-play.mp4?contentId=ed30d231daf21aef
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x2
 http://www.blogger.com/video-play.mp4?contentId=394e4cfecea167f3
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x3
 http://www.blogger.com/video-play.mp4?contentId=529987fdec3d36f3
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x4
 http://www.blogger.com/video-play.mp4?contentId=664bdd04d7412791
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x5
 http://www.blogger.com/video-play.mp4?contentId=20d4b81a29589932
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x6
 http://www.blogger.com/video-play.mp4?contentId=63ce31ae260366c5
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x7
 http://www.blogger.com/video-play.mp4?contentId=692fb0c3b8f52edb
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x8
 http://www.blogger.com/video-play.mp4?contentId=d98887a2d2bdde98
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x9
 http://www.blogger.com/video-play.mp4?contentId=dfe4a7f252d06751
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x10
 http://www.blogger.com/video-play.mp4?contentId=b458eed756d51dcc
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x11
 http://www.blogger.com/video-play.mp4?contentId=53511442987e1d28
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x12
 http://www.blogger.com/video-play.mp4?contentId=4d622592aaa90faa
-#EXTINF:-1 tvg-logo="http://bit.ly/2rS1aCG" group-title="BREAKING BAD",3x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525263404_856e7844cf0a365ae7d0fd23daca4632045229b2.jpg" group-title="BREAKING BAD",3x13
 http://www.blogger.com/video-play.mp4?contentId=52685bca0826ee41
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",4x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x1
 http://www.blogger.com/video-play.mp4?contentId=e7096fa5172dbc49
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x2
 http://www.blogger.com/video-play.mp4?contentId=a0731ab8b07df266
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x3
 http://www.blogger.com/video-play.mp4?contentId=c030a3c01d4f98ca
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x4
 http://www.blogger.com/video-play.mp4?contentId=aa959a510bfb2482
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x5
 http://www.blogger.com/video-play.mp4?contentId=d1b10d7b45f6c6e4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x6
 http://www.blogger.com/video-play.mp4?contentId=59b3dfdde108fbe1
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x7
 http://www.blogger.com/video-play.mp4?contentId=f1dc18ec92928bee
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x8
 http://www.blogger.com/video-play.mp4?contentId=756bad4a16b8417f
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x9
 http://www.blogger.com/video-play.mp4?contentId=39da1331b1ef62a5
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x10
 http://www.blogger.com/video-play.mp4?contentId=622d4924aeb4fa02
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x11
 http://www.blogger.com/video-play.mp4?contentId=147fb5e7eee1c2f3
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x12
 http://www.blogger.com/video-play.mp4?contentId=fc8c11b78c327747
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXQJlS" group-title="BREAKING BAD",4x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525264601_2fd55a630ea775c66a3388921f6c8bebbb0baaad.jpg" group-title="BREAKING BAD",4x13
 http://www.blogger.com/video-play.mp4?contentId=d70f888bbad5268d
 
-#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/br.jpg" group-title="BREAKING BAD",5x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x1
 http://www.blogger.com/video-play.mp4?contentId=a46eafe3afcaf0ee
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x2
 http://www.blogger.com/video-play.mp4?contentId=82c347db534d68ba
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x3
 http://www.blogger.com/video-play.mp4?contentId=973a15a2062dbc29
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x4
 http://www.blogger.com/video-play.mp4?contentId=d252ad9513f9444c
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x5
 http://www.blogger.com/video-play.mp4?contentId=2fabdd3e8b720e61
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x6
 http://www.blogger.com/video-play.mp4?contentId=c4bc567fc42f081d
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x7
 http://www.blogger.com/video-play.mp4?contentId=adadeea8e6cc0fdf
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x8
 http://www.blogger.com/video-play.mp4?contentId=f528e0e543ccdd30
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x9
 http://www.blogger.com/video-play.mp4?contentId=70b5942cb2fa4c62
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x10
 http://www.blogger.com/video-play.mp4?contentId=26f6429d4a037127
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x11
 http://www.blogger.com/video-play.mp4?contentId=8cb5610e18387bbb
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x12
 http://www.blogger.com/video-play.mp4?contentId=9165ed7116ee6822
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x13
 http://www.blogger.com/video-play.mp4?contentId=aec7ebcbea1bfd42
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x14
 http://www.blogger.com/video-play.mp4?contentId=b424a2fc302912f4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x15
 http://www.blogger.com/video-play.mp4?contentId=57c1daabf1322fc4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXxTFN" group-title="BREAKING BAD",5x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1525265866_9e93325d8db3baa800952a253a74c00eb794c8e2.jpg" group-title="BREAKING BAD",5x16
 http://www.blogger.com/video-play.mp4?contentId=545d92ded399267d
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",DEFIANCE
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x1
 http://www.blogger.com/video-play.mp4?contentId=4ff0645cd40e141f
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x2
 http://www.blogger.com/video-play.mp4?contentId=c0205bb20ee1e2d3
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x3
 http://www.blogger.com/video-play.mp4?contentId=d68838d19a557082
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x4
 http://www.blogger.com/video-play.mp4?contentId=2c12d996358b577c
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x5
 http://www.blogger.com/video-play.mp4?contentId=998d3df83a98131
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x6
 http://www.blogger.com/video-play.mp4?contentId=756e73955227e4d9
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x7
 http://www.blogger.com/video-play.mp4?contentId=3bfc9011ea7453e3
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x8
 http://www.blogger.com/video-play.mp4?contentId=a2c401938b384391
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x9
 http://www.blogger.com/video-play.mp4?contentId=b77903ebbb7ba5ff
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x10
 http://www.blogger.com/video-play.mp4?contentId=776fc1535bdbd8e1
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x11
 http://www.blogger.com/video-play.mp4?contentId=913ae53005a266f6
-#EXTINF:-1 tvg-logo="http://bit.ly/2IwSKGT" group-title="DEFIANCE",1x12
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",1x12
 http://www.blogger.com/video-play.mp4?contentId=d812bd778811844a
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x1
 http://www.blogger.com/video-play.mp4?contentId=fb7efe59252727b4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x2
 http://www.blogger.com/video-play.mp4?contentId=2c37561f27f95c40
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x3
 http://www.blogger.com/video-play.mp4?contentId=b579ad9cd7d92435
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x4
 http://www.blogger.com/video-play.mp4?contentId=97d04d586a63c90
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x5
 http://www.blogger.com/video-play.mp4?contentId=7cc56d175ea546b1
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x6
 http://www.blogger.com/video-play.mp4?contentId=1e8ad70c289353f3
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x7
 http://www.blogger.com/video-play.mp4?contentId=27103f3ff03004ab
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x8
 http://www.blogger.com/video-play.mp4?contentId=d75c847e58efcc26
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x9
 http://www.blogger.com/video-play.mp4?contentId=d9366a7a96bd3ac2
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x10
 http://www.blogger.com/video-play.mp4?contentId=743558aa53e25457
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x11
 http://www.blogger.com/video-play.mp4?contentId=2326b4d8c079c8eb
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x12
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x12
 http://www.blogger.com/video-play.mp4?contentId=32170ea806b75b81
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTrf" group-title="DEFIANCE",2x13
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",2x13
 http://www.blogger.com/video-play.mp4?contentId=8cbb5155e226bc4c
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x1
 http://www.blogger.com/video-play.mp4?contentId=1206aa82d0e56d39
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x2
 http://www.blogger.com/video-play.mp4?contentId=e765dcf08cd98161
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x3
 http://www.blogger.com/video-play.mp4?contentId=793b3687c866d939
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x4
 http://www.blogger.com/video-play.mp4?contentId=bf5d931ce4b5b481
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x5
 http://www.blogger.com/video-play.mp4?contentId=cd953123a701f31b
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x6
 http://www.blogger.com/video-play.mp4?contentId=560564b18596938d
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x7
 http://www.blogger.com/video-play.mp4?contentId=1ffb55eea78179df
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x8
 http://www.blogger.com/video-play.mp4?contentId=80d0093f6387d8b3
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x9
 http://www.blogger.com/video-play.mp4?contentId=240127fb18c68479
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x10
 http://www.blogger.com/video-play.mp4?contentId=e854b12c39282052
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x11
 http://www.blogger.com/video-play.mp4?contentId=381c9b638415aa26
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x12
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x12
 http://www.blogger.com/video-play.mp4?contentId=76065ab4558c4e91
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyUZcN" group-title="DEFIANCE",3x13
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Vmx3gm.jpg" group-title="DEFIANCE",3x13
 http://www.blogger.com/video-play.mp4?contentId=fd368d48d54aacbd
 
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",DEMOLIDOR
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x1
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x1
 http://www.blogger.com/video-play.mp4?contentId=259a987e36b9a654
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x2
 http://www.blogger.com/video-play.mp4?contentId=b3ab163b1e3a98f8
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x3
 http://www.blogger.com/video-play.mp4?contentId=ced96aeb0265bd51
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x4
 http://www.blogger.com/video-play.mp4?contentId=7d59bb1333c43da4
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x5
 http://www.blogger.com/video-play.mp4?contentId=5a7d1808aeb77b77
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x6
 http://www.blogger.com/video-play.mp4?contentId=b90fe0a9f5ed9619
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x7
 http://www.blogger.com/video-play.mp4?contentId=902e3b7da0c737ec
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x8
 http://www.blogger.com/video-play.mp4?contentId=ad689902fb5641fa
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x9
 http://www.blogger.com/video-play.mp4?contentId=10ee4900698ad67e
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x10
 http://www.blogger.com/video-play.mp4?contentId=2e6f2de56842b51d
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x11
 http://www.blogger.com/video-play.mp4?contentId=5562229dccd5d989
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x12
 http://www.blogger.com/video-play.mp4?contentId=1509b84803e47103
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0MiJr" group-title="DEMOLIDOR",1x13
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",1x13
 http://www.blogger.com/video-play.mp4?contentId=b3b42bbeef13c042
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x1
 http://www.blogger.com/video-play.mp4?contentId=a2d8465b173eb6b9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x2
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x2
 http://www.blogger.com/video-play.mp4?contentId=4207c79a53997a8b
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x3
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x3
 http://www.blogger.com/video-play.mp4?contentId=eeb9ddda4270645c
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x4
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x4
 http://www.blogger.com/video-play.mp4?contentId=ad7291ab576dc2d3
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x5
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x5
 http://www.blogger.com/video-play.mp4?contentId=1ba6efd13f2f448b
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x6
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x6
 http://www.blogger.com/video-play.mp4?contentId=56aec0f05632acd6
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x7
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x7
 http://www.blogger.com/video-play.mp4?contentId=50ca200202e820ef
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x8
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x8
 http://www.blogger.com/video-play.mp4?contentId=9e6e1135d715621a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x9
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x9
 http://www.blogger.com/video-play.mp4?contentId=8118634512dd2fb7
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x10
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x10
 http://www.blogger.com/video-play.mp4?contentId=ef11c8b87f1cf09a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x11
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x11
 http://www.blogger.com/video-play.mp4?contentId=4bc26d33557a25e5
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x12
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x12
 http://www.blogger.com/video-play.mp4?contentId=4aaf0ef3df0ede48
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ja7hZ2" group-title="DEMOLIDOR",2x13
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/01/dd-2.jpg" group-title="DEMOLIDOR",2x13
 http://www.blogger.com/video-play.mp4?contentId=f7c554e776c1ed4b
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2vyAk6N" group-title="DESVENTURAS EM SERIE",LEMONY SNICKET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",UNFORTUNATE EVENTS
 http://tinyurl.com/kbrplay-facebook
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x1
 https://www.blogger.com/video-play.mp4?contentId=aef031d259cbcd15
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x2
 https://www.blogger.com/video-play.mp4?contentId=dccb78e85d9a6f9f
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x3
 https://www.blogger.com/video-play.mp4?contentId=b073ee3c56dd099c
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x4
 https://www.blogger.com/video-play.mp4?contentId=7f3b1ba509b45a27
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x5
 https://www.blogger.com/video-play.mp4?contentId=d8245812047d2306
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x6
 https://www.blogger.com/video-play.mp4?contentId=640ca50024cd82a8
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x7
 https://www.blogger.com/video-play.mp4?contentId=ddfb07584def9bfe
-#EXTINF:-1 tvg-logo="http://bit.ly/2vx8M1p" group-title="DESVENTURAS EM SERIE",1x8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLr0I8L.jpg" group-title="DESVENTURAS EM SERIE",1x8
 https://www.blogger.com/video-play.mp4?contentId=5fa53c0e987aa369
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2M5A2bN" group-title="FEAR THE WALKING DEAD",FEAR THE WALKING DEAD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511962383_8bea0460819c3ec7e95fb03dc6fb6a9a1b0735f7.jpg" group-title="FEAR THE WALKING DEAD",FEAR THE WALKING DEAD
 http://tinyurl.com/kbrplay-facebook
 #EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x1
 https://www.blogger.com/video-play.mp4?contentId=376628569238435d
@@ -1041,83 +1041,83 @@ https://www.blogger.com/video-play.mp4?contentId=39dd1edae44b5d57
 #EXTINF:-1 tvg-logo="http://bit.ly/2JphYr8" group-title="FEAR THE WALKING DEAD",1x6
 https://www.blogger.com/video-play.mp4?contentId=467895a2ed8a1f28
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x1
 https://www.blogger.com/video-play.mp4?contentId=b2ebd1ca13f10d3d
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x2
 https://www.blogger.com/video-play.mp4?contentId=1a501f4b7d5f0e5c
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x3
 https://www.blogger.com/video-play.mp4?contentId=620c61421a0937a9
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x4
 https://www.blogger.com/video-play.mp4?contentId=a355a9f35a4bc8e1
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x5
 https://www.blogger.com/video-play.mp4?contentId=d897449fc9f703a9
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x6
 https://www.blogger.com/video-play.mp4?contentId=a431b92c643de0ce
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x7
 https://www.blogger.com/video-play.mp4?contentId=e806dca07db06523
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x8
 https://www.blogger.com/video-play.mp4?contentId=cb1bb65df6b7b937
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x9
 https://www.blogger.com/video-play.mp4?contentId=ee3bd2e4428b76fd
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x10
 https://www.blogger.com/video-play.mp4?contentId=e8f7fa2e8102e333
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x11
 https://www.blogger.com/video-play.mp4?contentId=ccfdcb7de7815af9
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x12
 https://www.blogger.com/video-play.mp4?contentId=e7d55a5ef7e78dd6
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x13
 https://www.blogger.com/video-play.mp4?contentId=c7f72744e48cb06d
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x14
 https://www.blogger.com/video-play.mp4?contentId=a70fd12d1df7d397
-#EXTINF:-1 tvg-logo="http://bit.ly/2sM5SS2" group-title="FEAR THE WALKING DEAD",2x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652005_f34d9c93e4370cecc492b35321e4a1aaffd53834.jpg" group-title="FEAR THE WALKING DEAD",2x15
 https://www.blogger.com/video-play.mp4?contentId=370dc188335bfa53
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x1
 https://www.blogger.com/video-play.mp4?contentId=4b10cd1f73685b07
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x2
 https://www.blogger.com/video-play.mp4?contentId=6fefd7392ba71cb0
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x3
 https://www.blogger.com/video-play.mp4?contentId=330a0e756818633a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x4
 https://www.blogger.com/video-play.mp4?contentId=43c14126091a69a9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x5
 https://www.blogger.com/video-play.mp4?contentId=1feb15a2559d538a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x6
 https://www.blogger.com/video-play.mp4?contentId=6eed6f9e836f9ab9
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x7
 https://www.blogger.com/video-play.mp4?contentId=87f368ed58252329
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x8
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x8
 https://www.blogger.com/video-play.mp4?contentId=b40f15722548653a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x9
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x9
 https://www.blogger.com/video-play.mp4?contentId=f3f8af8ebc7fb1bc
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x10
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x10
 https://www.blogger.com/video-play.mp4?contentId=58a2bd470bf9aa17
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x11
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x11
 https://www.blogger.com/video-play.mp4?contentId=850724d0367ca62d
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x12
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x12
 https://www.blogger.com/video-play.mp4?contentId=83fba2f9bf0a8b2a
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x13
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x13
 https://www.blogger.com/video-play.mp4?contentId=ead7ea42403e904e
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x14
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x14
 https://www.blogger.com/video-play.mp4?contentId=94305578987e83d4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x15
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x15
 https://www.blogger.com/video-play.mp4?contentId=55fb2ddf91d05da0
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lt49IY" group-title="FEAR THE WALKING DEAD",3x16
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1511652078_ab13f104846b64da6428c15a49799693daedd726.jpg" group-title="FEAR THE WALKING DEAD",3x16
 https://www.blogger.com/video-play.mp4?contentId=b0a32e08a19941f2
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x1
 https://www.blogger.com/video-play.mp4?contentId=eba8a6ddccb2e49f
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x2
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x2
 https://www.blogger.com/video-play.mp4?contentId=8c38aa88249b4419
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x3
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x3
 https://www.blogger.com/video-play.mp4?contentId=6b125964783d8e17
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x4
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x4
 https://www.blogger.com/video-play.mp4?contentId=c42058ef0d8a0657
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x5
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x5
 https://www.blogger.com/video-play.mp4?contentId=e04362041935798d
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x6
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x6
 https://www.blogger.com/video-play.mp4?contentId=300305602a274ade
-#EXTINF:-1 tvg-logo="http://bit.ly/2JlXT4Z" group-title="FEAR THE WALKING DEAD",4x7
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1523924079_4621b924de030b8b61e22e7c845ac8c794312ecf.jpg" group-title="FEAR THE WALKING DEAD",4x7
 https://www.blogger.com/video-play.mp4?contentId=c319b3d7be231d3a
 
 
