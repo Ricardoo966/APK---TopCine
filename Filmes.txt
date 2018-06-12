@@ -1,7 +1,23 @@
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7KQaSRnqimU/Vs759Reks2I/AAAAAAAAGR4/t_FvV1qX9o8/s1600-r/logo-demo.png" group-title="LANÇAMENTOS", NOVIDADES TODA SEMANA
 https://
 
+
+
+#EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raomiLDo4NQVEqsavlh7jgRnJOb.jpg" group-title="LANÇAMENTOS", 211 (LEG)
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/2112018LEG.mp4 
+
+#EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="LANÇAMENTOS", 2036 Origem Desconhecida (LEG)
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/2036ORIGEMDESCONHECIDA2018LEG.mp4 
+
+#EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="LANÇAMENTOS", The Last Witness (LEG)
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THELASTWITNESS2018LEG.mp4 
+
+#EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6H5hrU9AtVjDnplPVnwAxa1wGj.jpg" group-title="LANÇAMENTOS", Festival da Morte
+(DUB)
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FESTIVALDAMORTE2018DUB.mp4 
+
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z7L6rDFOPaEVjujZetXw01vHAS.jpg" group-title="LANÇAMENTOS", No Olho Do Furacão
+(DUB)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAODUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg" group-title="LANÇAMENTOS", Unsane (LEG) 
