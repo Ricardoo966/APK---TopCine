@@ -444,6 +444,9 @@ http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/4A2261FB52B81EC95A9D/89A5FBF
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BLSBxDv3UZqnT9KsVsDItrqVKG.jpg" group-title="LANÇAMENTOS 2", Duda e Os Gnomos (DUB) 
 http://deliverycontent.vstreaming.net/movies/dudaeosgnomos-dub-720p.mp4 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg" group-title="LANÇAMENTOS 2", Os Estranhos 2: Caçada Noturna (LEG)
+http://deliverycontent.vstreaming.net/movies/thestrangerpreyatnight-leg-720p.mp4
+
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/2289076.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS 2", Covil De Ladrões
 http://deliverycontent.vstreaming.net/movies/covildeladroes-dub-720p.mp4 
 
@@ -455,9 +458,6 @@ http://deliverycontent.vstreaming.net/movies/icanonlyimagine-leg-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="LANÇAMENTOS 2", Com Amor - Simon
 http://deliverycontent.vstreaming.net/movies/comamorsimon-dub-720p.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg" group-title="LANÇAMENTOS 2", Os Estranhos 2: Caçada Noturna (LEG)
-http://deliverycontent.vstreaming.net/movies/thestrangerpreyatnight-leg-720p.mp4
 
 #EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" group-title="LANÇAMENTOS 2", Vingadores – Guerra Infinita
 http://deliverycontent.vstreaming.net/movies/infinitywar-dub-720p.mp4
