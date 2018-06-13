@@ -4,437 +4,437 @@ https://
 
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raomiLDo4NQVEqsavlh7jgRnJOb.jpg" group-title="LANÇAMENTOS", 211 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/2112018LEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/2112018LEG.mp4 
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="LANÇAMENTOS", 2036 Origem Desconhecida (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/2036ORIGEMDESCONHECIDA2018LEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/2036ORIGEMDESCONHECIDA2018LEG.mp4 
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="LANÇAMENTOS", The Last Witness (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THELASTWITNESS2018LEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THELASTWITNESS2018LEG.mp4 
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6H5hrU9AtVjDnplPVnwAxa1wGj.jpg" group-title="LANÇAMENTOS", Festival da Morte
 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FESTIVALDAMORTE2018DUB.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FESTIVALDAMORTE2018DUB.mp4 
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z7L6rDFOPaEVjujZetXw01vHAS.jpg" group-title="LANÇAMENTOS", No Olho Do Furacão
 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAODUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg" group-title="LANÇAMENTOS", Unsane (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UNSANELEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/UNSANELEG.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BLSBxDv3UZqnT9KsVsDItrqVKG.jpg" group-title="LANÇAMENTOS", Duda e Os Gnomos (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DUDAEOSGNOMOSDUB.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DUDAEOSGNOMOSDUB.mp4 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ4MjIxOTYyNF5BMl5BanBnXkFtZTgwMTc3MDg0NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="LANÇAMENTOS", Alex Strangelove (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALEXSTRANGELOVEDUB.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ALEXSTRANGELOVEDUB.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dOQ1jKzkJZnUKmzE27CvDe07Sc.jpg" group-title="LANÇAMENTOS", Acrimônia (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACRIMONIADUB.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ACRIMONIADUB.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg" group-title="LANÇAMENTOS", Mary Shelley (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MARYSHELLEYLEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MARYSHELLEYLEG.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQfvac0Pc8fEe9beS65ewiWMuM.jpg" group-title="LANÇAMENTOS", What We Started (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/WHATWESTARTEDLEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/WHATWESTARTEDLEG.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqKw2974z3NNKHlBOrgQCMg5usT.jpg" group-title="LANÇAMENTOS", Dirt (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIRTLEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DIRTLEG.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78aGSMuS3BXJqd3t7rc4CkoHxyD.jpg" group-title="LANÇAMENTOS", Eu Só Posso Imaginar (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUSOPOSSOIMAGINARLEG.mp4 
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/EUSOPOSSOIMAGINARLEG.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="2018", Com Amor - Simon (LEG) http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORSIMON1080LEG.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="2018", Com Amor - Simon (LEG) http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORSIMON1080LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg" group-title="LANÇAMENTOS", Thoroughbreds (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THOROUGHBREDSLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THOROUGHBREDSLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWETGfd6FEHGecnKE6JuWeXy90c.jpg" group-title="LANÇAMENTOS", The Escape (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEESCAPELEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THEESCAPELEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" group-title="LANÇAMENTOS", De Fora Para Dentro (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DEFORAPARADENTRODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DEFORAPARADENTRODUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" group-title="LANÇAMENTOS", De Fora Para Dentro (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DEFORAPARADENTROLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DEFORAPARADENTROLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YFCAAZUUpj66gLAMqRhwpY1U34.jpg" group-title="LANÇAMENTOS", Querido Ditador (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/QUERIDODITADORDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/QUERIDODITADORDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg" group-title="LANÇAMENTOS", Black Water (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BLACKWATERLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BLACKWATERLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riy4yl3VwyTjAJkA6qmxjPptsuV.jpg" group-title="LANÇAMENTOS", Os Farofeiros (NAC)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6ZZriobpdpkAy8hfkNENaykot2.jpg" group-title="LANÇAMENTOS", Sherlock Gnomes e o Mistério do Jardim (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SHERLOCKGNOMESMDJDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SHERLOCKGNOMESMDJDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aguq47xq3qhN807rSyz4lJyhAkX.jpg" group-title="LANÇAMENTOS", The Tale (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THETALELEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THETALELEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" group-title="LANÇAMENTOS", Gonjiam: Asilo Assombrado (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GONJIAMASILOASSOMBRADOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/GONJIAMASILOASSOMBRADOLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5w3fkua6BYjDzs0bbOXYbWCrlF.jpg" group-title="LANÇAMENTOS", In Darkness (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/INDARKNESSLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/INDARKNESSLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZDc4Mzg2OWMtZDRiNi00YTAzLWIwMTMtMmEzYzFiNGYzNjg4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,665,1000_AL_.jpg" group-title="LANÇAMENTOS", Aos Teus Olhos (NAC)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AOSTEUSOLHOSNAC.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AOSTEUSOLHOSNAC.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWxHT7QldoWuGBLjOalnTHySvqB.jpg" group-title="LANÇAMENTOS", The Hollow Child (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEHOLLOWCHILDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THEHOLLOWCHILDLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMA0IalnEEa0PaHRUzzjpTu5xXQ.jpg" group-title="LANÇAMENTOS", Future World (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FUTUREWORLDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FUTUREWORLDLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg" group-title="LANÇAMENTOS", Higher Power (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HIGHERPOWERLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/HIGHERPOWERLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dSjUzNqCgscroGSV5L2UqZvR9E7.jpg" group-title="LANÇAMENTOS", Baseado Em Fatos Reais (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BASEADOEMFATOSREAISLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BASEADOEMFATOSREAISLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="LANÇAMENTOS", Tomb Raider: A Origem (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TOMBRAIDERHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TOMBRAIDERHDDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="LANÇAMENTOS", Tomb Raider: A Origem (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TOMBRAIDERHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TOMBRAIDERHDLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCA7wnKifwHdZ4pAObXe9rIEFX2.jpg" group-title="LANÇAMENTOS", Desejo De Matar (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DESEJODEMATARHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DESEJODEMATARHDLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95UVybnGqxedNU3foGtCkfbIAGI.jpg" group-title="LANÇAMENTOS", Feral (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FERALLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FERALLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg" group-title="LANÇAMENTOS", Para Sempre Minha Garota (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PARASEMPREMINHAGAROTALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PARASEMPREMINHAGAROTALEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjqQVAlrX9SlJv4AVZ6jbOlZGMA.jpg" group-title="LANÇAMENTOS", O Caderno de Sara (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OCADERNODESARADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OCADERNODESARADUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjqQVAlrX9SlJv4AVZ6jbOlZGMA.jpg" group-title="LANÇAMENTOS", O Caderno de Sara (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OCADERNODESARALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OCADERNODESARALEG.mp4
 
 #EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTczMTA5ODMxOV5BMl5BanBnXkFtZTgwNTgwNDkzNTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="LANÇAMENTOS", Ibiza: Tudo pelo DJ (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/IBIZATUDOPELODJDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/IBIZATUDOPELODJDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTczMTA5ODMxOV5BMl5BanBnXkFtZTgwNTgwNDkzNTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="LANÇAMENTOS", Ibiza: Tudo pelo DJ (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/IBIZALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/IBIZALEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbevoY1JitEd1EmSAaZOsozCUND.jpg" group-title="LANÇAMENTOS", Uma Dobra No Tempo (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMADOBRANOTEMPODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/UMADOBRANOTEMPODUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHk7FnyXC8QMve6CazR2RFI79BX.jpg" group-title="LANÇAMENTOS", A Lista De Honra (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALISTADEHONRALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ALISTADEHONRALEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg" group-title="LANÇAMENTOS", Os Curados (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSCURADOSDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OSCURADOSDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg" group-title="LANÇAMENTOS", Os Curados (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THECUREDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THECUREDLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4CAQiTq3y0gLadRiYv38pJqjZq.jpg" group-title="LANÇAMENTOS", Covil De Ladrões (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COVILDELADROESHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COVILDELADROESHDDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4CAQiTq3y0gLadRiYv38pJqjZq.jpg" group-title="LANÇAMENTOS", Covil De Ladrões (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COVILDELADROESHDLEG2.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COVILDELADROESHDLEG2.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg" group-title="LANÇAMENTOS", Os Estranhos 2: Caçada Noturna (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSESTRANHOS2CNLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OSESTRANHOS2CNLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hguApoyWzRseJbe1DeqYZjEIF1t.jpg" group-title="LANÇAMENTOS", Gringo: Vivo ou Morto (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GRINGOVIVOOUMORTOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/GRINGOVIVOOUMORTOLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YTFjZ6kovfzk6NGSYJgvgwfNG2.jpg" group-title="LANÇAMENTOS", Luna: Em Busca Da Verdade (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LUNAEMBUSCADAVERDADEHDTVDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LUNAEMBUSCADAVERDADEHDTVDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox3vbFLpGuh5xbKLrtXeYsqnjgH.jpg" group-title="LANÇAMENTOS", Um Lugar Silencioso (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMLUGARSILENCIOSOHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/UMLUGARSILENCIOSOHDDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox3vbFLpGuh5xbKLrtXeYsqnjgH.jpg" group-title="LANÇAMENTOS", Um Lugar Silencioso (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMLUGARSILENCIOSOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/UMLUGARSILENCIOSOLEG.mp4
 
 #EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BYTdkOTQ4ZWQtNWVkYy00MjA4LWJkMzgtOWVlMGUzM2U1NWU4XkEyXkFqcGdeQXVyNDcyMjQ4MzU@._V1_SY1000_CR0,0,698,1000_AL_.jpg" group-title="LANÇAMENTOS", Pequena Floresta (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAFLORESTALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAFLORESTALEG.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPjx.jpg" group-title="LANÇAMENTOS", Fahrenheit 451 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451DUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451DUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPjx.jpg" group-title="LANÇAMENTOS", Fahrenheit 451 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451LEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ze9oqL" group-title="LANÇAMENTOS", Pari (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PARILEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PARILEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hULJLj" group-title="LANÇAMENTOS", Terminal (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TERMINALLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TERMINALLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/PXBBzG" group-title="LANÇAMENTOS", Lego DC Super Hero Girls: Escola de Super Vilãs (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LDCSHEDSVDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LDCSHEDSVDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/sS9SDN" group-title="LANÇAMENTOS", A Abelhinha Maya: O Filme (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AABELHINHAMAYAOFILMEDUBHDTS.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AABELHINHAMAYAOFILMEDUBHDTS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/HwZmrJ" group-title="LANÇAMENTOS", A Casa Dos 200 Demônios (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACASADOS200DEMONIOSLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ACASADOS200DEMONIOSLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/fkpNyh" group-title="LANÇAMENTOS", Dias De Chuva e Tempestade (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIASDECHUVAETEMPESTADELEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DIASDECHUVAETEMPESTADELEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Lj9wmN" group-title="LANÇAMENTOS", Cargo (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CARGODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CARGODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Lj9wmN" group-title="LANÇAMENTOS", Cargo (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CARGOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CARGOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/1cpzW9" group-title="LANÇAMENTOS", O Homem Das Cavernas (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OHOMEMDASCAVERNASHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OHOMEMDASCAVERNASHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gVAbTD" group-title="LANÇAMENTOS", Ella e John (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ELLAEJOHNLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ELLAEJOHNLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WWqrbD" group-title="LANÇAMENTOS", Vampire Clay (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VAMPIRECLAYLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VAMPIRECLAYLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GjGYja" group-title="LANÇAMENTOS", Spivak (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SPIVAKLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SPIVAKLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6t4uBb" group-title="LANÇAMENTOS", Círculo De Monstros 2 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEMONSTROS2LEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEMONSTROS2LEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bQgE5c" group-title="LANÇAMENTOS", Daphne & Velma (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bQgE5c" group-title="LANÇAMENTOS", Daphne & Velma (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMALEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/1MRt8r" group-title="LANÇAMENTOS", 15h17: Trem Para Paris (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/1MRt8r" group-title="LANÇAMENTOS", 15h17: Trem Para Paris (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/AbKQ9g" group-title="LANÇAMENTOS", VINGANÇA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VINGANCALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VINGANCALEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/3T1MiF" group-title="LANÇAMENTOS", A BARRACA DO BEIJO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ABARRACADOBEIJODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ABARRACADOBEIJODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Jkk88v" group-title="LANÇAMENTOS", TEM ALIENÍGENAS NO MEU QUARTO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TEMALIENIGENANOMEUQUARTODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TEMALIENIGENANOMEUQUARTODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Jkk88v" group-title="LANÇAMENTOS", TEM ALIENÍGENAS NO MEU QUARTO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TEMALIENIGENANOMEUQUARTOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TEMALIENIGENANOMEUQUARTOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YVRPD4" group-title="LANÇAMENTOS", AVENGERS GRIMM: TIME WARS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AVENGERSGRIMMHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AVENGERSGRIMMHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WWV7dU" group-title="LANÇAMENTOS", A NOITE DO JOGO (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDOJOGODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDOJOGODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WWV7dU" group-title="LANÇAMENTOS", A NOITE DO JOGO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDOJOGOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDOJOGOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/W6crBX" group-title="LANÇAMENTOS", JOGADOR N°1 (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JOGADORN1DUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/JOGADORN1DUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/W6crBX" group-title="LANÇAMENTOS", JOGADOR N°1 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JOGADORN1HDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/JOGADORN1HDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9pcC3L" group-title="LANÇAMENTOS", SANSÃO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SANSAOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SANSAOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Yhpv4W" group-title="LANÇAMENTOS", O ATAQUE DOS VERMES MALDITOS 6 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS6LEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS6LEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pZtucN" group-title="LANÇAMENTOS", PRINCESA ENCANTADA: UM MISTÉRIO REAL (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PRINCESAENCANTADADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PRINCESAENCANTADADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/yUA2Bv" group-title="LANÇAMENTOS", O ÚLTIMO SUSPIRO (LEG - TS)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OULTIMOSUSPIROTSLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OULTIMOSUSPIROTSLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bjFgZD" group-title="LANÇAMENTOS", PERDOAI AS NOSSAS DÍVIDAS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERDOAIASNOSSASDIVIDASLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PERDOAIASNOSSASDIVIDASLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/fmV16F" group-title="LANÇAMENTOS", PRIMAL RAGE (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PRIMALRAGELEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PRIMALRAGELEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RVPJeQ" group-title="LANÇAMENTOS", ASYLUM OF FEAR (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ASYLUMOFFEARLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ASYLUMOFFEARLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RY3g5F" group-title="LANÇAMENTOS", VERDADE OU DESAFIO (DUB - TS)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VDDOUDESAFIODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VDDOUDESAFIODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GWRa2V" group-title="LANÇAMENTOS", GENESIS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GENESISLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/GENESISLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GSpUy6" group-title="LANÇAMENTOS", FAMILY BLOOD (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GSpUy6" group-title="LANÇAMENTOS", FAMILY BLOOD (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jrTt2V" group-title="LANÇAMENTOS", ANON (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANONDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANONDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jrTt2V" group-title="LANÇAMENTOS", ANON (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANONLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANONLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9LxYsw" group-title="LANÇAMENTOS", MEU ROMANCE PERFEITO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MEUROMANCEPERFEITODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MEUROMANCEPERFEITODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/32A1eA" group-title="LANÇAMENTOS", DARC (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DARCDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DARCDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/32A1eA" group-title="LANÇAMENTOS", DARC (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DARCLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DARCLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bMvQmf" group-title="LANÇAMENTOS", PANTERA NEGRA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRAHDDDUB2.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRAHDDDUB2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/bMvQmf" group-title="LANÇAMENTOS", PANTERA NEGRA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRAHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRAHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/rDFgiu" group-title="LANÇAMENTOS", VINGADORES 3: GUERRA INFINITA (DUB - TS) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VINGADORESGUERRAINFINITATSV2DUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VINGADORESGUERRAINFINITATSV2DUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/XdmnGF" group-title="LANÇAMENTOS", 10x10 (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/10X10LEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/10X10LEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WdhSXW" group-title="LANÇAMENTOS", CORBIN NASH (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CORBINNASHLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CORBINNASHLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Qqmxpz" group-title="LANÇAMENTOS", BATMAN NINJA (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BATMANNINJADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BATMANNINJADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9uoEhp" group-title="LANÇAMENTOS", DOCE ARGUMENTO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9uoEhp" group-title="LANÇAMENTOS", DOCE ARGUMENTO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/B1hZB1" group-title="LANÇAMENTOS", LÁ VEM OS PAIS (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/B1hZB1" group-title="LANÇAMENTOS", LÁ VEM OS PAIS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/am4vmN" group-title="LANÇAMENTOS", NO OLHO DO FURACÃO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAOLEG.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.micetop.us/wp-content/uploads/LANÇAMENTOS/04/circulodefogo_1.jpg" group-title="LANÇAMENTOS", CÍRCULO DE FOGO 2: A REVOLTA (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTADUB2.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTADUB2.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.micetop.us/wp-content/uploads/LANÇAMENTOS/04/circulodefogo_1.jpg" group-title="LANÇAMENTOS", CÍRCULO DE FOGO 2: A REVOLTA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTAHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTAHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tVLsBE" group-title="LANÇAMENTOS", A MALDIÇÃO DA CASA WHINCHESTER (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AMALDICAODACASAWHINCHESTERHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AMALDICAODACASAWHINCHESTERHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tVLsBE" group-title="LANÇAMENTOS", A MALDIÇÃO DA CASA WHINCHESTER (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AMALDICAODACASAWINCHESTERLEGHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AMALDICAODACASAWINCHESTERLEGHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6AjwH8" group-title="LANÇAMENTOS", A NOIVA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANOIVA.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANOIVA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9yCBMg" group-title="LANÇAMENTOS", A ESCOLHA PERFEITA 3 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3DUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3DUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9yCBMg" group-title="LANÇAMENTOS", A ESCOLHA PERFEITA 3 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3HDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3HDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kSZwMv" group-title="LANÇAMENTOS", VIVA - A VIDA É UMA FESTA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VIVADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VIVADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Ev7WSk" group-title="LANÇAMENTOS", OPERAÇÃO RED SPARROW (DUB - HDRIP)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OPERACAOREDSPARROWHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OPERACAOREDSPARROWHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Ev7WSk" group-title="LANÇAMENTOS", OPERAÇÃO RED SPARROW (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OPERACAOREDSPARROWLEGHD2.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OPERACAOREDSPARROWLEGHD2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wbyzbU" group-title="LANÇAMENTOS", CINQUENTA TONS DE LIBERDADE (DUB - SEM CENSURA)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CTDLSEMCENSURADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CTDLSEMCENSURADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wbyzbU" group-title="LANÇAMENTOS", CINQUENTA TONS DE LIBERDADE (LEG - SEM CENSURA)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CTDLSEMCENSURALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CTDLSEMCENSURALEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LV56u7" group-title="LANÇAMENTOS", PROUD MARY A PROFISSIONAL (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PROUDMARYDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PROUDMARYDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LV56u7" group-title="LANÇAMENTOS", PROUD MARY A PROFISSIONAL (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PROUDMARYLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PROUDMARYLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RzQbWJ" group-title="LANÇAMENTOS", ESQUADRÃO SUICIDA: ACERTO DE CONTAS (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RzQbWJ" group-title="LANÇAMENTOS", ESQUADRÃO SUICIDA: ACERTO DE CONTAS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/rsSver" group-title="LANÇAMENTOS", I KILL GIANTS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUMATOGIGANTESLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/EUMATOGIGANTESLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/sr9vRv" group-title="LANÇAMENTOS", TERRA SELVAGEM (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TERRASELVAGEMDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TERRASELVAGEMDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/S8WGbX" group-title="LANÇAMENTOS", 12 HERÓIS (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/12HEROISHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/12HEROISHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jiuGSN" group-title="LANÇAMENTOS", UM DIA DE CAOS (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAYHEMDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MAYHEMDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/EYmyyS" group-title="LANÇAMENTOS", THE TITAN (DUB) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THETITANDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THETITANDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/EYmyyS" group-title="LANÇAMENTOS", THE TITAN (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THETITANLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THETITANLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/n1oMqr" group-title="LANÇAMENTOS", O PASSAGEIRO (LEG) 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OPASSAGEIROHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OPASSAGEIROHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/NJEzeY" group-title="LANÇAMENTOS", MAZE RUNNER 3: A CURA MORTAL (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAZERUNNERHDRIPDUBB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MAZERUNNERHDRIPDUBB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/NJEzeY" group-title="LANÇAMENTOS", MAZE RUNNER 3: A CURA MORTAL (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAZERUNNERACURAMORTALHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MAZERUNNERACURAMORTALHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/qMMdq7" group-title="LANÇAMENTOS", FALA SÉRIO MÃE! (NAC)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FALASERIOMAE.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FALASERIOMAE.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/tKr24o" group-title="LANÇAMENTOS", CONSPIRAÇÃO TERRORISTA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CONSPIRACAOTERRORISTADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CONSPIRACAOTERRORISTADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/F4ci7v" group-title="LANÇAMENTOS", PERDA TOTAL (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERDATOTALDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PERDATOTALDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/F4ci7v" group-title="LANÇAMENTOS", PERDA TOTAL (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERDATOTALLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PERDATOTALLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xfZtWm" group-title="LANÇAMENTOS", BENJI (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BENJIDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BENJIDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Jzj2ww" group-title="LANÇAMENTOS", SOBRENATURAL 4: A ÚLTIMA CHAVE (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Jzj2ww" group-title="LANÇAMENTOS", SOBRENATURAL 4: A ÚLTIMA CHAVE (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/KWPp68" group-title="LANÇAMENTOS", CORRIDA MORTAL 4 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CORRIDAMORTAL4LEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/CORRIDAMORTAL4LEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/yEDFYo" group-title="LANÇAMENTOS", PADDINGTON 2 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ASAVENTURASDEPDUBHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ASAVENTURASDEPDUBHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/yEDFYo" group-title="LANÇAMENTOS", PADDINGTON 2 (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PADDINGTON2LEGHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PADDINGTON2LEGHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kR2prc" group-title="LANÇAMENTOS", LEGO: SUPER-HERÓIS - THE  FLASH (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LEGODCSCFLASHDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LEGODCSCFLASHDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kR2prc" group-title="LANÇAMENTOS", LEGO: SUPER-HERÓIS - THE  FLASH (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LEGODCCOMICSFLASHL.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LEGODCCOMICSFLASHL.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/s1RmAv" group-title="LANÇAMENTOS", ANIQUILAÇÃO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANIQUILACAODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANIQUILACAODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/s1RmAv" group-title="LANÇAMENTOS", ANIQUILAÇÃO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANIQUILACAOLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANIQUILACAOLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Gh8nGb" group-title="LANÇAMENTOS", BRAVEN (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BRAVENDUBHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BRAVENDUBHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Gh8nGb" group-title="LANÇAMENTOS", BRAVEN (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BRAVENLEG2.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/BRAVENLEG2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/VpZgsc" group-title="LANÇAMENTOS", UMA FLORESTA MUITO LOUCA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMAFLORESTAMUITOLOUCA.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/UMAFLORESTAMUITOLOUCA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Fw9SjU" group-title="LANÇAMENTOS", STAR WARS 8: OS ÚLTIMOS JEDI (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/STARWARSUJWEBDLDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/STARWARSUJWEBDLDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LRFFpa" group-title="LANÇAMENTOS", DÍVIDA PERIGOSA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIVIDAPERIGOSA.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/DIVIDAPERIGOSA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SN8Pc2" group-title="LANÇAMENTOS", JUMANJI: BEM-VINDO A SELVA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JUMANJIHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/JUMANJIHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/SN8Pc2" group-title="LANÇAMENTOS", JUMANJI: BEM-VINDO A SELVA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JUMANJIBSHDLEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/JUMANJIBSHDLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/pVwTdk" group-title="LANÇAMENTOS", EU TONYA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUTONYALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/EUTONYALEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/D342WX" group-title="LANÇAMENTOS", ME CHAME PELO SEU NOME (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MECHAMEPELOSEUNOMEDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MECHAMEPELOSEUNOMEDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/D342WX" group-title="LANÇAMENTOS", ME CHAME PELO SEU NOME (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/75CEFC8E99FE5A7D9367/F3F5CF4247DA8A3D9E66.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/75CEFC8E99FE5A7D9367/F3F5CF4247DA8A3D9E66.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TVdGjy" group-title="LANÇAMENTOS", O REI DO SHOW (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OREIDOSHOWHDDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OREIDOSHOWHDDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/2LKgT9" group-title="LANÇAMENTOS", COM AMOR - VAN GOGH (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/r6TXxg" group-title="LANÇAMENTOS", A ESTRELA DE BELÉM (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AESTRELADEBELEMDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AESTRELADEBELEMDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/233c9e" group-title="LANÇAMENTOS", VERÓNICA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VERONICA.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/VERONICA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nmtyhg" group-title="LANÇAMENTOS", OS PARÇAS (NAC)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSPARCASHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OSPARCASHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8gkJt5" group-title="LANÇAMENTOS", A FORMA DA ÁGUA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AFORMADAGUADUBHD.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AFORMADAGUADUBHD.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8gkJt5" group-title="LANÇAMENTOS", A FORMA DA ÁGUA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AFORMADAAGUALEG.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AFORMADAAGUALEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="LANÇAMENTOS", JOGOS MORTAIS 8: JIGSAW (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JIGSAWDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/JIGSAWDUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="LANÇAMENTOS", JOGOS MORTAIS 8: JIGSAW (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A5F87DFA8E4FF9C5EE59/E9773A83C8858395ED4E.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/A5F87DFA8E4FF9C5EE59/E9773A83C8858395ED4E.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TTg8GX" group-title="LANÇAMENTOS", O TOURO FERDINANDO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FERDINANDO.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/FERDINANDO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xiUAS4" group-title="LANÇAMENTOS", ESPELHO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LOOKINGGLASS.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/LOOKINGGLASS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/5MNeJg" group-title="LANÇAMENTOS", MUDO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MUTE.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/MUTE.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RVavua" group-title="LANÇAMENTOS", PEQUENA GRANDE VIDA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAGRANDEVIDA.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAGRANDEVIDA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RVavua" group-title="LANÇAMENTOS", PEQUENA GRANDE VIDA (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DFB9C79FA39E8A826A59/9D866D9585E2687C1BC5.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/DFB9C79FA39E8A826A59/9D866D9585E2687C1BC5.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="LANÇAMENTOS", EXTRAORDINÁRIO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EXTRAORDINARIODUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/EXTRAORDINARIODUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="LANÇAMENTOS", EXTRAORDINÁRIO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/12C4293FD362CCD7D8C4/5DD31339EE3CC4AD183E.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/12C4293FD362CCD7D8C4/5DD31339EE3CC4AD183E.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="LANÇAMENTOS", THOR 3: RAGNAROK (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="LANÇAMENTOS", THOR 3: RAGNAROK (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/D397634E8BB3F298F267.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/D397634E8BB3F298F267.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/G4AgcF" group-title="LANÇAMENTOS", TRÊS ANÚNCIOS PARA UM CRIME (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TRESANUNCIOSPARAUMCRIME.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/TRESANUNCIOSPARAUMCRIME.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/G4AgcF" group-title="LANÇAMENTOS", TRÊS ANÚNCIOS PARA UM CRIME (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DA7D86BB345F635BBAD8/11F5D131CCFCE831F947.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/DA7D86BB345F635BBAD8/11F5D131CCFCE831F947.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/BBject" group-title="LANÇAMENTOS", HACKER: TODO CRIME TEM UM INÍCIO (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HACKERTCTUI.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/HACKERTCTUI.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WeZ5Bm" group-title="LANÇAMENTOS", FULLMETAL ALCHEMIST (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/WeZ5Bm" group-title="LANÇAMENTOS", FULLMETAL ALCHEMIST (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/6837636C855488928D39.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/6837636C855488928D39.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/KPKTWC" group-title="LANÇAMENTOS", O DESTINO DE UMA NAÇÃO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A15A21BBB4DA72ABD675/F9517CDBF51DE6CDB784.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/A15A21BBB4DA72ABD675/F9517CDBF51DE6CDB784.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9WT2i7" group-title="LANÇAMENTOS", PAI EM DOSE DUPLA 2 (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/47781EECF22AFC1BE28C/8AFD2F74A1E39FA243BB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/47781EECF22AFC1BE28C/8AFD2F74A1E39FA243BB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="LANÇAMENTOS", AMERICAN SATAN (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/C3FA6CBDD3CB4A5FBEBE/B62AF371B9BC28D1BE66.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/C3FA6CBDD3CB4A5FBEBE/B62AF371B9BC28D1BE66.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="LANÇAMENTOS", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5552663118CF5FF9F78A/42DF9FA4D98283B2E4E9.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/5552663118CF5FF9F78A/42DF9FA4D98283B2E4E9.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="LANÇAMENTOS", THE POST: A GUERRA SECRETA (DUB)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEPOSTAGUERRASECRETADUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/THEPOSTAGUERRASECRETADUB.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="LANÇAMENTOS", O PARADOXO CLOVERFIELD 
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/645C356A3AC153878A44/5A9B3FF986DFEC994542.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/645C356A3AC153878A44/5A9B3FF986DFEC994542.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="LANÇAMENTOS", BATMAN: GOTHAM BY GASLIGHT
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/11C8CCA3FA181955DE53/18ACBBEB797695BFA791.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/11C8CCA3FA181955DE53/18ACBBEB797695BFA791.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="LANÇAMENTOS", PICA-PAU: O FILME
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/67E14EC34239DCBEEEDA/97B5A4E42AFCAB812236.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/67E14EC34239DCBEEEDA/97B5A4E42AFCAB812236.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="LANÇAMENTOS", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/111C7B76F91D3ABD43EF/B86CC2CF18BDB5BFA5C9.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/111C7B76F91D3ABD43EF/B86CC2CF18BDB5BFA5C9.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="LANÇAMENTOS", A MORTE TE DÁ PARABÉNS
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/961ABACD74E4E956AA4B/E97F8D51FBCFB9D17ED6.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/961ABACD74E4E956AA4B/E97F8D51FBCFB9D17ED6.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="LANÇAMENTOS", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/4A2261FB52B81EC95A9D/89A5FBF4AF7A6637E439.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/4A2261FB52B81EC95A9D/89A5FBF4AF7A6637E439.mp4
 
 #####################################
 
@@ -473,7 +473,7 @@ http://deliverycontent.vstreaming.net/movies/deadpool2-dub-720p.mp4
 http://deliverycontent.vstreaming.net/movies/deadpool2-leg-720p.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riy4yl3VwyTjAJkA6qmxjPptsuV.jpg" group-title="LANÇAMENTOS 2", Os Farofeiros (NAC)
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCA7wnKifwHdZ4pAObXe9rIEFX2.jpg" group-title="LANÇAMENTOS 2", Desejo De Matar (LEG) http://deliverycontent.vstreaming.net/movies/deathwish-leg-720p.mp4  
 
@@ -495,19 +495,19 @@ http://deliverycontent.vstreaming.net/movies/redsparrow-leg-1080p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2HS0wvq" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
 https://tinyurl.com/kbrplay-manutencao
 #EXTINF:-1 tvg-logo="http://bit.ly/2Houia4" group-title="UNIVERSO MARVEL",HOMEM DE FERRO
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/CC197ECF336AE63C6DA7/8F4718FD751F7E86F557.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/CC197ECF336AE63C6DA7/8F4718FD751F7E86F557.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2HmjYzt" group-title="UNIVERSO MARVEL",O INCRIVEL HULK
 https://tinyurl.com/kbrplay-manutencao
 #EXTINF:-1 tvg-logo="http://bit.ly/2K6libw" group-title="UNIVERSO MARVEL",HOMEM DE FERRO 2
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/C8F58E2AACDF3A523B2D/197B9BA4C8BF8217A827.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/C8F58E2AACDF3A523B2D/197B9BA4C8BF8217A827.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qSPpLE" group-title="UNIVERSO MARVEL",THOR
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/25E2C1776C543EA51E7A/52A22C87E9FD44E67957.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/25E2C1776C543EA51E7A/52A22C87E9FD44E67957.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qUpges" group-title="UNIVERSO MARVEL",OS VINGADORES
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/7A3641C16BB7149724CF/1EC657CC3CFDC85A8B96.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/7A3641C16BB7149724CF/1EC657CC3CFDC85A8B96.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2HSHJQD" group-title="UNIVERSO MARVEL",HOMEM DE FERRO 3
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5D12D43DDFD671C5AA55/37CE82A12B7EC32569DC.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/5D12D43DDFD671C5AA55/37CE82A12B7EC32569DC.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qRBkxW" group-title="UNIVERSO MARVEL",THOR:O MUNDO SOMBRIO
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/D41611277F6CE8F3E2A7/98DD2EB31E5F21A33A98.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/D41611277F6CE8F3E2A7/98DD2EB31E5F21A33A98.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qVkw8m" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O SOLDADO INVERNAL
 https://tinyurl.com/kbrplay-manutencao
 #EXTINF:-1 tvg-logo="http://bit.ly/2JjwNuS" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA
@@ -515,30 +515,30 @@ http://deliverycontent.vstreaming.net/movies/guardioesgalaxia-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2K8vmAF" group-title="UNIVERSO MARVEL",OS VINGADORES:ERA DE ULTRON
 http://deliverycontent.vstreaming.net/movies/eradeultron-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2K8vBf3" group-title="UNIVERSO MARVEL",HOMEM FORMIGA
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/454953CB9F8DB825D5C7/D1B71FD73F1882ED74A5.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/454953CB9F8DB825D5C7/D1B71FD73F1882ED74A5.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2vATcC5" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:GUERRA CIVIL
 http://deliverycontent.vstreaming.net/movies/guerracivil-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2vDI8nF" group-title="UNIVERSO MARVEL",DOUTOR ESTRANHO
 http://deliverycontent.vstreaming.net/movies/drestranho-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2qPtEwk" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA 2
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/85D334C1E5A83DE81FE3/1B544A3BDA21D535E586.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/85D334C1E5A83DE81FE3/1B544A3BDA21D535E586.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Hl3N5v" group-title="UNIVERSO MARVEL",HOMEM ARANHA:DE VOLTA AO LAR
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DBE6B95E23CFB9156D25/6999E7C23A8E89CB5BCE.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/DBE6B95E23CFB9156D25/6999E7C23A8E89CB5BCE.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Hq1yCc" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
 
 ######################################
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2LDP1ti" group-title="INFANTIL",OQUE SERA DE NOZES 2
-http://cdn96.micetop.us/httpdelivery/sex/antigos/filmes0800/new/A1DA4A12C2A877FA9E28/35A5BECB9849AC74616A.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/A1DA4A12C2A877FA9E28/35A5BECB9849AC74616A.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/2DCDD29E18D6F54FF373/583D9DD9CA1E8D34B637.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/2DCDD29E18D6F54FF373/583D9DD9CA1E8D34B637.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2ktKWey" group-title="INFANTIL",TROLLS VAMOS FESTEJAR
-http://cdn96.micetop.us/httpdelivery/sex/antigos/filmes0800/new/F45AEC734F2EC1F59A52/2A335CD58499BB344558.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/F45AEC734F2EC1F59A52/2A335CD58499BB344558.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2kxyj2o" group-title="INFANTIL",FULL METAL ALCHEMIST
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2GXFJVo" group-title="INFANTIL",COM AMOR VAN GOGH
-http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="INFANTIL",AS AVENTURAS DE TADEO 2
 http://deliverycontent.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="INFANTIL",SCOOBY DOO E O COMBATE DO SALSICHA
