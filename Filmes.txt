@@ -417,27 +417,80 @@ http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/6837636
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A15A21BBB4DA72ABD675/F9517CDBF51DE6CDB784.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/9WT2i7" group-title="LANÇAMENTOS", PAI EM DOSE DUPLA 2 (DUB)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/47781EECF22AFC1BE28C/8AFD2F74A1E39FA243BB.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="LANÇAMENTOS", AMERICAN SATAN (LEG - LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="LANÇAMENTOS", AMERICAN SATAN (LEG)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/C3FA6CBDD3CB4A5FBEBE/B62AF371B9BC28D1BE66.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="LANÇAMENTOS", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG - LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="LANÇAMENTOS", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5552663118CF5FF9F78A/42DF9FA4D98283B2E4E9.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="LANÇAMENTOS", THE POST: A GUERRA SECRETA (DUB)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEPOSTAGUERRASECRETADUB.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="LANÇAMENTOS", O PARADOXO CLOVERFIELD (LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="LANÇAMENTOS", O PARADOXO CLOVERFIELD 
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/645C356A3AC153878A44/5A9B3FF986DFEC994542.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="LANÇAMENTOS", BATMAN: GOTHAM BY GASLIGHT (LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="LANÇAMENTOS", BATMAN: GOTHAM BY GASLIGHT
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/11C8CCA3FA181955DE53/18ACBBEB797695BFA791.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="LANÇAMENTOS", PICA-PAU: O FILME (LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="LANÇAMENTOS", PICA-PAU: O FILME
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/67E14EC34239DCBEEEDA/97B5A4E42AFCAB812236.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="LANÇAMENTOS", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="LANÇAMENTOS", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG)
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/111C7B76F91D3ABD43EF/B86CC2CF18BDB5BFA5C9.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="LANÇAMENTOS", A MORTE TE DÁ PARABÉNS (LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="LANÇAMENTOS", A MORTE TE DÁ PARABÉNS
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/961ABACD74E4E956AA4B/E97F8D51FBCFB9D17ED6.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="LANÇAMENTOS", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (LANÇAMENTOS)
+#EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="LANÇAMENTOS", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/4A2261FB52B81EC95A9D/89A5FBF4AF7A6637E439.mp4
 
-##########################################################################################################################################################################
+#####################################
 
+                     Lançamentos 2
+######################################
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/06/2232385.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS 2", Deadpool 2
+http://deliverycontent.vstreaming.net/movies/deadpool2-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/06/2232385.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS 2", Deadpool 2 (LEG)
+http://deliverycontent.vstreaming.net/movies/deadpool2-leg-720p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riy4yl3VwyTjAJkA6qmxjPptsuV.jpg" group-title="LANÇAMENTOS 2", Os Farofeiros (NAC)
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCA7wnKifwHdZ4pAObXe9rIEFX2.jpg" group-title="LANÇAMENTOS 2", Desejo De Matar (LEG) http://deliverycontent.vstreaming.net/movies/deathwish-leg-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BLSBxDv3UZqnT9KsVsDItrqVKG.jpg" group-title="LANÇAMENTOS", Duda e Os Gnomos (DUB) 
+http://deliverycontent.vstreaming.net/movies/dudaeosgnomos-dub-720p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/2289076.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS 2", Covil De Ladrões
+http://deliverycontent.vstreaming.net/movies/covildeladroes-dub-720p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/2289076.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANÇAMENTOS 2", Covil De Ladrões (LEG)
+http://deliverycontent.vstreaming.net/movies/covildeladroes-leg-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78aGSMuS3BXJqd3t7rc4CkoHxyD.jpg" group-title="LANÇAMENTOS", Eu Só Posso Imaginar (LEG) 
+http://deliverycontent.vstreaming.net/movies/icanonlyimagine-leg-720p.mp4  
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="2018", Com Amor - Simon
+http://deliverycontent.vstreaming.net/movies/comamorsimon-dub-720p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg" group-title="LANÇAMENTOS", Os Estranhos 2: Caçada Noturna (LEG)
+http://deliverycontent.vstreaming.net/movies/thestrangerpreyatnight-leg-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" group-title="LANÇAMENTOS 2", Vingadores – Guerra Infinita
+http://deliverycontent.vstreaming.net/movies/infinitywar-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" group-title="LANÇAMENTOS 2", Vingadores – Guerra  Infinita
+(LEG)
+http://deliverycontent.vstreaming.net/movies/infinitywar-leg-720p.mp4  
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="LANÇAMENTOS 2", Tomb Raider: A Origem
+http://deliverycontent.vstreaming.net/movies/tombraiderorigem-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="LANÇAMENTOS 2", Tomb Raider: A Origem (LEG)
+http://deliverycontent.vstreaming.net/movies/tombraidernew-leg-1080p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-12.jpg" group-title="LANÇAMENTOS 2", Um Lugar Silencioso (LEG)
+http://deliverycontent.vstreaming.net/movies/umlugarsilencioso-leg-720p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.rakan.biz/wp-content/uploads/2018/05/ds-7.jpg" group-title="LANÇAMENTOS 2", Operação Red Sparrow
+(LEG)
+http://deliverycontent.vstreaming.net/movies/redsparrow-leg-1080p.mp4
+
+######################################
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2HS0wvq" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
 https://tinyurl.com/kbrplay-manutencao
@@ -474,10 +527,7 @@ http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DBE6B95E23CFB9156D25/6999E7C
 #EXTINF:-1 tvg-logo="http://bit.ly/2Hq1yCc" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
 http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
 
-#####################################
-
 ######################################
-
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2LDP1ti" group-title="INFANTIL",OQUE SERA DE NOZES 2
 http://cdn96.micetop.us/httpdelivery/sex/antigos/filmes0800/new/A1DA4A12C2A877FA9E28/35A5BECB9849AC74616A.mp4
