@@ -2,22 +2,6 @@
 https://
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8swZAUefTHzK8cCEpgLOXzBH7QE.jpg" group-title="LANÇAMENTOS", A Última Jornada
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AULTIMAJORNADADUB.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A32qmifxv1OhnBepxGK7zssPZH6.jpg" group-title="LANÇAMENTOS", Somente O Mar Sabe (LEG)
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/SOMENTEOMARSABE2018LEG.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg" group-title="LANÇAMENTOS", Euphoria (LEG)
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/EUPHORIA2018LEG.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb0lsEUyytspi7fo1ggDybRvZVK.jpg" group-title="LANÇAMENTOS", A Kid Like Jake (LEG)
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/AKIDLIKEJAKE2018LEG.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaqOxbkNAR5A1SJtluIZEcRUJdH.jpg" group-title="LANÇAMENTOS", A Noite Devorou O Mundo (LEG)
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDEVOROUOMUNDO2018LEG.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8m8uCA" group-title="LANÇAMENTOS", Ghostland (LEG)
 
 #EXTINF: tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raomiLDo4NQVEqsavlh7jgRnJOb.jpg" group-title="LANÇAMENTOS", 211 (LEG)
 http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/2112018LEG.mp4 
@@ -508,6 +492,76 @@ http://deliverycontent.vstreaming.net/movies/redsparrow-leg-1080p.mp4
 
 ######################################
 
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Do Superman" tvg-logo="https://imgur.com/2B3hMp0.jpg" group-title="DC SHOWCASE",A Morte Do Superman
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/20997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arqueiro Verde" tvg-logo="https://imgur.com/1rMDVRL.jpg" group-title="DC SHOWCASE",Arqueiro Verde
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman a Mascara Do Fantasma" tvg-logo="https://imgur.com/tF6xJ1D.jpg" group-title="DC SHOWCASE",Batman a Mascara Do Fantasma
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman E Mr  Freeze: Abaixo De Zero" tvg-logo="https://imgur.com/xjTXA7p.jpg" group-title="DC SHOWCASE",Batman E Mr  Freeze: Abaixo De Zero
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Do Futuro: O Retorno Do Coringa" tvg-logo="https://imgur.com/z0a4gaT.jpg" group-title="DC SHOWCASE",Batman Do Futuro: O Retorno Do Coringa
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Vs Dracula" tvg-logo="https://imgur.com/TX94EBk.jpg" group-title="DC SHOWCASE",Batman Vs Dracula
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro De Gotham" tvg-logo="https://imgur.com/OV4Is1v.jpg" group-title="DC SHOWCASE",Batman: O Cavaleiro De Gotham
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Ano Um" tvg-logo="https://imgur.com/XbzjFuE.jpg" group-title="DC SHOWCASE",Batman: Ano Um
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro Das Trevas (Parte 1)" tvg-logo="https://imgur.com/Jkf14a4.jpg" group-title="DC SHOWCASE",Batman: O Cavaleiro Das Trevas (Parte 1)
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro Das Trevas (Parte 2)" tvg-logo="https://imgur.com/1VihQjV.jpg" group-title="DC SHOWCASE",Batman: O Cavaleiro Das Trevas (Parte 2)
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Contra O Capuz Vermelho" tvg-logo="https://imgur.com/yMEmHtf.jpg" group-title="DC SHOWCASE",Batman Contra O Capuz Vermelho
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Retorno Da Dupla Din?mica" tvg-logo="https://imgur.com/JVEQGHY.jpg" group-title="DC SHOWCASE",Batman: O Retorno Da Dupla Din?mica
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Vs Duas Caras" tvg-logo="https://imgur.com/PO758xB.jpg" group-title="DC SHOWCASE",Batman Vs Duas Caras
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Gotham By Gaslight" tvg-logo="https://imgur.com/bg84HkA.jpg" group-title="DC SHOWCASE",Batman Gotham By Gaslight
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Cavaleiros Esmeralda" tvg-logo="https://imgur.com/0nKH5m3.jpg" group-title="DC SHOWCASE",Lanterna Verde: Cavaleiros Esmeralda
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadr?o Suicida: Acerto De Contas" tvg-logo="https://imgur.com/iuTUDal.jpg" group-title="DC SHOWCASE",Esquadr?o Suicida: Acerto De Contas
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Titans: Missao Toquio" tvg-logo="https://imgur.com/UjvOJlm.jpg" group-title="DC SHOWCASE",Jovens Titans: Missao Toquio
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jonah Hex" tvg-logo="https://imgur.com/Fd5x3sX.jpg" group-title="DC SHOWCASE",Jonah Hex
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justica: A Legiao Do Mal" tvg-logo="https://imgur.com/w0Y4KIs.jpg" group-title="DC SHOWCASE",Liga Da Justica: A Legiao Do Mal
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justi?a: A Nova Fronteira" tvg-logo="https://imgur.com/dpH7Vih.jpg" group-title="DC SHOWCASE",Liga Da Justi?a: A Nova Fronteira
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justi?a: Crise Em Duas Terras" tvg-logo="https://imgur.com/lvfRYmr.jpg" group-title="DC SHOWCASE",Liga Da Justi?a: Crise Em Duas Terras
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justica: Ponto De Ignicao" tvg-logo="https://imgur.com/Flkf1Ax.jpg" group-title="DC SHOWCASE",Liga Da Justica: Ponto De Ignicao
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Primeiro Voo" tvg-logo="https://imgur.com/75LBvZ3.jpg" group-title="DC SHOWCASE",Lanterna Verde: Primeiro Voo
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher Maravilha" tvg-logo="https://imgur.com/GNu8VEE.jpg" group-title="DC SHOWCASE",Mulher Maravilha
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Gato" tvg-logo="https://imgur.com/bdISJBc.jpg" group-title="DC SHOWCASE",Mulher-Gato
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Spectro" tvg-logo="https://imgur.com/DOf9uJU.jpg" group-title="DC SHOWCASE",O Spectro
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman E Batman: Apocalipse" tvg-logo="https://imgur.com/UvaOMKJ.jpg" group-title="DC SHOWCASE",Superman E Batman: Apocalipse
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman E Batman: Inimigos Publicos" tvg-logo="https://imgur.com/ZP2s5Ct.jpg" group-title="DC SHOWCASE",Superman E Batman: Inimigos Publicos
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Brainiac Ataca" tvg-logo="https://imgur.com/IbyKrPo.jpg" group-title="DC SHOWCASE",Superman: Brainiac Ataca
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman E Shazam: O Retorno Do Ad?o Negro" tvg-logo="https://imgur.com/qKi66Ws.jpg" group-title="DC SHOWCASE",Superman E Shazam: O Retorno Do Ad?o Negro
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Grandes Astros" tvg-logo="https://imgur.com/FnhUiya.jpg" group-title="DC SHOWCASE",Superman: Grandes Astros
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Contra A Elite" tvg-logo="https://imgur.com/BJLKJaW.jpg" group-title="DC SHOWCASE",Superman: Contra A Elite
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/21000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Sem Limites" tvg-logo="https://imgur.com/4LnY0Sc.jpg" group-title="DC SHOWCASE",Superman: Sem Limites
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/20999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Contos Do Cargueiro Negro" tvg-logo="https://imgur.com/QmUefQy.jpg" group-title="DC SHOWCASE",Watchmen: Contos Do Cargueiro Negro
+http://dns.infinitytv.xyz:8000/movie/Buteco/09IXXfl96A/20998.mp4
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2HS0wvq" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
 https://tinyurl.com/kbrplay-manutencao
 #EXTINF:-1 tvg-logo="http://bit.ly/2Houia4" group-title="UNIVERSO MARVEL",HOMEM DE FERRO
@@ -543,104 +597,7 @@ http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/DBE6B95E23CFB9156D25/6999E7
 #EXTINF:-1 tvg-logo="http://bit.ly/2Hq1yCc" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
 http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/C945BB88131DE3EB9D7B.mp4
 
-######################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2LDP1ti" group-title="INFANTIL",OQUE SERA DE NOZES 2
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/A1DA4A12C2A877FA9E28/35A5BECB9849AC74616A.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/2DCDD29E18D6F54FF373/583D9DD9CA1E8D34B637.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2ktKWey" group-title="INFANTIL",TROLLS VAMOS FESTEJAR
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/F45AEC734F2EC1F59A52/2A335CD58499BB344558.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2kxyj2o" group-title="INFANTIL",FULL METAL ALCHEMIST
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GXFJVo" group-title="INFANTIL",COM AMOR VAN GOGH
-http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="INFANTIL",AS AVENTURAS DE TADEO 2
-http://deliverycontent.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="INFANTIL",SCOOBY DOO E O COMBATE DO SALSICHA
-http://deliverycontent.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LgO3D9" group-title="INFANTIL",MADAGASCAR 3:OS PROCURADOS
-http://deliverycontent.vstreaming.net/movies/madagascar3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wSjjF8" group-title="INFANTIL",O REI LEAO
-http://deliverycontent.vstreaming.net/movies/reileao-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2k8QkUj" group-title="INFANTIL",O REI LEAO 2
-http://deliverycontent.vstreaming.net/movies/reileao2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2s3Mkbx" group-title="INFANTIL",O REI LEAO 3
-http://deliverycontent.vstreaming.net/movies/reileao3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LhGrjC" group-title="INFANTIL",UMA FLORESTA MUITO LOUCA
-http://deliverycontent.vstreaming.net/movies/umaflorestamuitolouca-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXh2bO" group-title="INFANTIL",A ESTRELA DE BELEM
-http://deliverycontent.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rWr7A8" group-title="INFANTIL",BIG PAI BIG FILHO
-http://deliverycontent.vstreaming.net/movies/bigpai-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTaQ" group-title="INFANTIL",PICA PAU O FILME
-http://deliverycontent.vstreaming.net/movies/picapau-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rVCpFt" group-title="INFANTIL",UMA FAMILIA FELIZ
-http://deliverycontent.vstreaming.net/movies/familiafeliz-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://deliverycontent.vstreaming.net/movies/pokemon-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gyoiut" group-title="INFANTIL",SHREK
-http://deliverycontent.vstreaming.net/movies/shrek-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KGimC2" group-title="INFANTIL",SHREK 2
-http://deliverycontent.vstreaming.net/movies/shrek2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lg4IXl" group-title="INFANTIL",SHREK TERCEIRO
-http://deliverycontent.vstreaming.net/movies/shrek3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXlIyy" group-title="INFANTIL",SHREK PARA SEMPRE
-http://deliverycontent.vstreaming.net/movies/shreksempre-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2s0I9Ny" group-title="INFANTIL",TOY STORY UM MUNDO DE AVENTURAS
-http://deliverycontent.vstreaming.net/movies/toystory-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lk4H4t" group-title="INFANTIL",TOY STORY 2
-http://deliverycontent.vstreaming.net/movies/toystory2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IVWwNA" group-title="INFANTIL",TOY STORY 3
-http://deliverycontent.vstreaming.net/movies/toystory3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x4bSuM" group-title="INFANTIL",CARROS 3
-http://deliverycontent.vstreaming.net/movies/carros3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IDnAxD" group-title="INFANTIL",DRAGON BALL Z A BATALHA DOS DEUSES
-http://deliverycontent.vstreaming.net/movies/batalhadeuses-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2J1a1vC" group-title="INFANTIL",MEU MALVADO FAVORITO 3
-http://deliverycontent.vstreaming.net/movies/meumalvado3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rXMh1u" group-title="INFANTIL",O PODEROSO CHEFINHO
-http://deliverycontent.vstreaming.net/movies/poderosochefinho-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x10JuA" group-title="INFANTIL",BOB ESPONJA O FILME
-http://deliverycontent.vstreaming.net/movies/bobesponjaofilme-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IWS80U" group-title="INFANTIL",AVIOES
-http://deliverycontent.vstreaming.net/movies/avioes-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x2mpX9" group-title="INFANTIL",ALVIM E OS ESQUILOS
-http://deliverycontent.vstreaming.net/movies/esquilos-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rZTsWd" group-title="INFANTIL",ALVIM E OS ESQUILOS 2
-http://deliverycontent.vstreaming.net/movies/esquilos2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2khY3iR" group-title="INFANTIL",ALVIM E OS ESQUILOS 3
-http://deliverycontent.vstreaming.net/movies/esquilos3-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wXNKKk" group-title="INFANTIL",OS SMURFS E A VILA PERDIDA
-http://deliverycontent.vstreaming.net/movies/smurfsvilaperdida-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x0hhTx" group-title="INFANTIL",LEGO BATMAN
-http://deliverycontent.vstreaming.net/movies/legobatman-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYzgES" group-title="INFANTIL",SAHARA
-http://deliverycontent.vstreaming.net/movies/saara-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYByD2" group-title="INFANTIL",PINOQUIO
-http://deliverycontent.vstreaming.net/movies/pinoquio-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x19tkh" group-title="INFANTIL",ANGRY BIRDS O FILME
-http://deliverycontent.vstreaming.net/movies/angrybirds-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYKk4Z" group-title="INFANTIL",LORAX
-http://deliverycontent.vstreaming.net/movies/lorax-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x0iBWv" group-title="INFANTIL",A ORIGEM DOS GUARDIOES
-http://deliverycontent.vstreaming.net/movies/origemguardioes-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IxKVEW" group-title="INFANTIL",BRANCA DE NEVE E OS SETE ANOES
-http://deliverycontent.vstreaming.net/movies/brancadeneve-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IDrkiF" group-title="INFANTIL",PROCURANDO NEMO
-http://deliverycontent.vstreaming.net/movies/nemo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L1KccH" group-title="INFANTIL",DETONA RALPH
-http://deliverycontent.vstreaming.net/movies/detonaralph-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="INFANTIL",ANNIE
-http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="INFANTIL",A PANTERA COR DE ROSA
-http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2If6LJp" group-title="INFANTIL",UMA GAROTA ENCANTADA
-http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-
-######################################
-
-######################################
 
 #EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A CABANA DO INFERNO
 https://lh3.googleusercontent.com/XA2KTJhIz9TcPaspH-A92zpr-ab9tgW8xww9sG76vadbQ_q2wbO2-U2HlBkuOF7iSJeGYwHlLg=m22
@@ -2121,154 +2078,247 @@ http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?ELITEBOXX
 
 ######################################
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
 http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
 http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
 http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
 http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
 http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UIJROXV.jpg" group-title="ACAO",Assassin’s Creed
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UIJROXV.jpg" group-title="AÇÃO",Assassin’s Creed
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/ASSADUBLA-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg" group-title="ANIMACAO",Resident Evil: A Vingança
+#EXTINF:-1 tvg-logo="http://bit.ly/2LDP1ti" group-title="ANIMAÇÃO",OQUE SERA DE NOZES 2
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/A1DA4A12C2A877FA9E28/35A5BECB9849AC74616A.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="ANIMAÇÃO",POKEMON EU ESCOLHO VOCE
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/2DCDD29E18D6F54FF373/583D9DD9CA1E8D34B637.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2ktKWey" group-title="ANIMAÇÃO",TROLLS VAMOS FESTEJAR
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/filmes0800/new/F45AEC734F2EC1F59A52/2A335CD58499BB344558.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2kxyj2o" group-title="ANIMAÇÃO",FULL METAL ALCHEMIST
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/FB4C46B446CFF47726F8.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2GXFJVo" group-title="ANIMAÇÃO",COM AMOR VAN GOGH
+http://tcdn22.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="ANIMAÇÃO",AS AVENTURAS DE TADEO 2
+http://deliverycontent.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="ANIMAÇÃO",SCOOBY DOO E O COMBATE DO SALSICHA
+http://deliverycontent.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2LgO3D9" group-title="ANIMAÇÃO",MADAGASCAR 3:OS PROCURADOS
+http://deliverycontent.vstreaming.net/movies/madagascar3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wSjjF8" group-title="ANIMAÇÃO",O REI LEAO
+http://deliverycontent.vstreaming.net/movies/reileao-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2k8QkUj" group-title="ANIMAÇÃO",O REI LEAO 2
+http://deliverycontent.vstreaming.net/movies/reileao2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2s3Mkbx" group-title="ANIMAÇÃO",O REI LEAO 3
+http://deliverycontent.vstreaming.net/movies/reileao3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2LhGrjC" group-title="ANIMAÇÃO",UMA FLORESTA MUITO LOUCA
+http://deliverycontent.vstreaming.net/movies/umaflorestamuitolouca-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wXh2bO" group-title="ANIMAÇÃO",A ESTRELA DE BELEM
+http://deliverycontent.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rWr7A8" group-title="ANIMAÇÃO",BIG PAI BIG FILHO
+http://deliverycontent.vstreaming.net/movies/bigpai-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IUnTaQ" group-title="ANIMAÇÃO",PICA PAU O FILME
+http://deliverycontent.vstreaming.net/movies/picapau-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rVCpFt" group-title="ANIMAÇÃO",UMA FAMILIA FELIZ
+http://deliverycontent.vstreaming.net/movies/familiafeliz-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="ANIMAÇÃO",POKEMON EU ESCOLHO VOCE
+http://deliverycontent.vstreaming.net/movies/pokemon-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gyoiut" group-title="ANIMAÇÃO",SHREK
+http://deliverycontent.vstreaming.net/movies/shrek-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KGimC2" group-title="ANIMAÇÃO",SHREK 2
+http://deliverycontent.vstreaming.net/movies/shrek2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Lg4IXl" group-title="ANIMAÇÃO",SHREK TERCEIRO
+http://deliverycontent.vstreaming.net/movies/shrek3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wXlIyy" group-title="ANIMAÇÃO",SHREK PARA SEMPRE
+http://deliverycontent.vstreaming.net/movies/shreksempre-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2s0I9Ny" group-title="ANIMAÇÃO",TOY STORY UM MUNDO DE AVENTURAS
+http://deliverycontent.vstreaming.net/movies/toystory-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Lk4H4t" group-title="ANIMAÇÃO",TOY STORY 2
+http://deliverycontent.vstreaming.net/movies/toystory2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IVWwNA" group-title="ANIMAÇÃO",TOY STORY 3
+http://deliverycontent.vstreaming.net/movies/toystory3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x4bSuM" group-title="ANIMAÇÃO",CARROS 3
+http://deliverycontent.vstreaming.net/movies/carros3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IDnAxD" group-title="ANIMAÇÃO",DRAGON BALL Z A BATALHA DOS DEUSES
+http://deliverycontent.vstreaming.net/movies/batalhadeuses-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2J1a1vC" group-title="ANIMAÇÃO",MEU MALVADO FAVORITO 3
+http://deliverycontent.vstreaming.net/movies/meumalvado3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rXMh1u" group-title="ANIMAÇÃO",O PODEROSO CHEFINHO
+http://deliverycontent.vstreaming.net/movies/poderosochefinho-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x10JuA" group-title="ANIMAÇÃO",BOB ESPONJA O FILME
+http://deliverycontent.vstreaming.net/movies/bobesponjaofilme-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IWS80U" group-title="ANIMAÇÃO",AVIOES
+http://deliverycontent.vstreaming.net/movies/avioes-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x2mpX9" group-title="ANIMAÇÃO",ALVIM E OS ESQUILOS
+http://deliverycontent.vstreaming.net/movies/esquilos-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rZTsWd" group-title="ANIMAÇÃO",ALVIM E OS ESQUILOS 2
+http://deliverycontent.vstreaming.net/movies/esquilos2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2khY3iR" group-title="ANIMAÇÃO",ALVIM E OS ESQUILOS 3
+http://deliverycontent.vstreaming.net/movies/esquilos3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wXNKKk" group-title="ANIMAÇÃO",OS SMURFS E A VILA PERDIDA
+http://deliverycontent.vstreaming.net/movies/smurfsvilaperdida-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x0hhTx" group-title="ANIMAÇÃO",LEGO BATMAN
+http://deliverycontent.vstreaming.net/movies/legobatman-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rYzgES" group-title="ANIMAÇÃO",SAHARA
+http://deliverycontent.vstreaming.net/movies/saara-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rYByD2" group-title="ANIMAÇÃO",PINOQUIO
+http://deliverycontent.vstreaming.net/movies/pinoquio-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x19tkh" group-title="ANIMAÇÃO",ANGRY BIRDS O FILME
+http://deliverycontent.vstreaming.net/movies/angrybirds-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rYKk4Z" group-title="ANIMAÇÃO",LORAX
+http://deliverycontent.vstreaming.net/movies/lorax-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2x0iBWv" group-title="ANIMAÇÃO",A ORIGEM DOS GUARDIOES
+http://deliverycontent.vstreaming.net/movies/origemguardioes-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IxKVEW" group-title="ANIMAÇÃO",BRANCA DE NEVE E OS SETE ANOES
+http://deliverycontent.vstreaming.net/movies/brancadeneve-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IDrkiF" group-title="ANIMAÇÃO",PROCURANDO NEMO
+http://deliverycontent.vstreaming.net/movies/nemo-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2L1KccH" group-title="ANIMAÇÃO",DETONA RALPH
+http://deliverycontent.vstreaming.net/movies/detonaralph-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="ANIMAÇÃO",ANNIE
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="ANIMAÇÃO",A PANTERA COR DE ROSA
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2If6LJp" group-title="ANIMAÇÃO",UMA GAROTA ENCANTADA
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg" group-title="ANIMAÇÃO",Resident Evil: A Vingança
 https://lh3.googleusercontent.com/XJkC1xawf4qra9yBAXGEOn6G7RS5e38mbIb6aa0n6enrszyHFm-l7UPL0sCs6febsQtojvgS1wAzQ41sYA=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3aJGQElwUHF6wwaLUJbD53kqpMA.jpg" group-title="ANIMACAO",Frankenweenie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3aJGQElwUHF6wwaLUJbD53kqpMA.jpg" group-title="ANIMAÇÃO",Frankenweenie
 https://lh3.googleusercontent.com/ndElT-obKDIHYjekqbPhdK0K1Z8EMQ_MRUrxUrLgnnHNjBFEBg5XeQa-d5hRECWRFPMer1SCoogeU_5C=m22
 
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMACAO",Liga da Justiça Sombria DUB
+#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMAÇÃO",Liga da Justiça Sombria DUB
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMACAO",Liga da Justiça Sombria LEG
+#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMAÇÃO",Liga da Justiça Sombria LEG
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSLEG-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/medium-cover.png" group-title="ANIMACAO",Uma Aventura LEGO
+#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/medium-cover.png" group-title="ANIMAÇÃO",Uma Aventura LEGO
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14LEG-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ANIMACAO"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
+#EXTINF:-1  group-title="ANIMAÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vOFVtAoh.jpg" group-title="AVENTURA",Doutor Estranho (2016)
@@ -2331,167 +2381,167 @@ http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/deadpool/L
 #EXTINF:-1 tvg-logo="http://www.cineplayers.com/img/cartazes/12285_poster.jpg" group-title="AVENTURA",O Barão Aventureiro (1950)
 http://archive.org/download/O_Barao_Aventureiro_1950_Leg/O_Barao_Aventureiro_1950_Leg.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r98E5kW0Asjgsx6oniRkoHpnqGy.jpg" group-title="COMEDIA",Os Brutamontes 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r98E5kW0Asjgsx6oniRkoHpnqGy.jpg" group-title="COMÉDIA",Os Brutamontes 2
 https://lh3.googleusercontent.com/oK0fuO3GAQHxQuVHPN8eBNsYbX20SJaUvquvb_uOivKHc6r_z_FbiDsJ-wy24H0ub7qpF5vPEQ=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/e9a3IlurqxUvxexPjX7LvhdQYM6.jpg" group-title="COMEDIA",Vizinhos 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/e9a3IlurqxUvxexPjX7LvhdQYM6.jpg" group-title="COMÉDIA",Vizinhos 2
 https://lh3.googleusercontent.com/RVxj49GnEgmBql0ctwVOA9p2uigwx4K9ce20xDakrBuPgiBvrjzdf09xKBsZKj7GG6ajETKXQ1V2pEoU=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4zX7gbWOAI0Koox9hf4BXGf40xZ.jpg" group-title="COMEDIA",MIB: 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4zX7gbWOAI0Koox9hf4BXGf40xZ.jpg" group-title="COMÉDIA",MIB: 2
 https://lh3.googleusercontent.com/8fe7jORyC7OTe3XIOxSa-PDZKyFUYgT4rIUbSE2vcXzgQsU42j6dX0KWMO6aO-BDwM91aY94XGWevjd0=m37
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
 http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
 http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
 http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
+#EXTINF:-1  group-title="COMÉDIA" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
+#EXTINF:-1  group-title="COMÉDIA" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
 http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
 http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/ugRAtF6NVctEIJvleT91yKH5YmI.jpg" group-title="DRAMA",A Cilada
@@ -3110,154 +3160,154 @@ http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRCNPLTGST.mp4?t=st=1527221676~e
 ##########################################################################################################################
 
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
 http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
 http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
 http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
 http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
 http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
+#EXTINF:-1  group-title="AÇÃO" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UIJROXV.jpg" group-title="ACAO",Assassin’s Creed
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UIJROXV.jpg" group-title="AÇÃO",Assassin’s Creed
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/ASSADUBLA-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ACAO"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
+#EXTINF:-1  group-title="AÇÃO"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg" group-title="ANIMACAO",Resident Evil: A Vingança
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg" group-title="ANIMAÇÃO",Resident Evil: A Vingança
 https://lh3.googleusercontent.com/XJkC1xawf4qra9yBAXGEOn6G7RS5e38mbIb6aa0n6enrszyHFm-l7UPL0sCs6febsQtojvgS1wAzQ41sYA=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3aJGQElwUHF6wwaLUJbD53kqpMA.jpg" group-title="ANIMACAO",Frankenweenie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3aJGQElwUHF6wwaLUJbD53kqpMA.jpg" group-title="ANIMAÇÃO",Frankenweenie
 https://lh3.googleusercontent.com/ndElT-obKDIHYjekqbPhdK0K1Z8EMQ_MRUrxUrLgnnHNjBFEBg5XeQa-d5hRECWRFPMer1SCoogeU_5C=m22
 
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMACAO",Liga da Justiça Sombria DUB
+#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMAÇÃO",Liga da Justiça Sombria DUB
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMACAO",Liga da Justiça Sombria LEG
+#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="ANIMAÇÃO",Liga da Justiça Sombria LEG
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSLEG-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/medium-cover.png" group-title="ANIMACAO",Uma Aventura LEGO
+#EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/medium-cover.png" group-title="ANIMAÇÃO",Uma Aventura LEGO
 http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14LEG-BAIXO.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="ANIMACAO"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
+#EXTINF:-1  group-title="ANIMAÇÃO"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vOFVtAoh.jpg" group-title="AVENTURA",Doutor Estranho (2016)
@@ -3320,167 +3370,167 @@ http://cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/deadpool/L
 #EXTINF:-1 tvg-logo="http://www.cineplayers.com/img/cartazes/12285_poster.jpg" group-title="AVENTURA",O Barão Aventureiro (1950)
 http://archive.org/download/O_Barao_Aventureiro_1950_Leg/O_Barao_Aventureiro_1950_Leg.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r98E5kW0Asjgsx6oniRkoHpnqGy.jpg" group-title="COMEDIA",Os Brutamontes 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r98E5kW0Asjgsx6oniRkoHpnqGy.jpg" group-title="COMÉDIA",Os Brutamontes 2
 https://lh3.googleusercontent.com/oK0fuO3GAQHxQuVHPN8eBNsYbX20SJaUvquvb_uOivKHc6r_z_FbiDsJ-wy24H0ub7qpF5vPEQ=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/e9a3IlurqxUvxexPjX7LvhdQYM6.jpg" group-title="COMEDIA",Vizinhos 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/e9a3IlurqxUvxexPjX7LvhdQYM6.jpg" group-title="COMÉDIA",Vizinhos 2
 https://lh3.googleusercontent.com/RVxj49GnEgmBql0ctwVOA9p2uigwx4K9ce20xDakrBuPgiBvrjzdf09xKBsZKj7GG6ajETKXQ1V2pEoU=m22
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4zX7gbWOAI0Koox9hf4BXGf40xZ.jpg" group-title="COMEDIA",MIB: 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4zX7gbWOAI0Koox9hf4BXGf40xZ.jpg" group-title="COMÉDIA",MIB: 2
 https://lh3.googleusercontent.com/8fe7jORyC7OTe3XIOxSa-PDZKyFUYgT4rIUbSE2vcXzgQsU42j6dX0KWMO6aO-BDwM91aY94XGWevjd0=m37
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
 http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
 http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
 http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
+#EXTINF:-1  group-title="COMÉDIA" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
+#EXTINF:-1  group-title="COMÉDIA" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
 http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
 http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
-#EXTINF:-1  group-title="COMEDIA"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
+#EXTINF:-1  group-title="COMÉDIA"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?t=st=1527221676~exp=1527236076~acl=/content/*~hmac=b5d3cc6c380f3f6135cb26c073f91293&STANIPTV
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/ugRAtF6NVctEIJvleT91yKH5YmI.jpg" group-title="DRAMA",A Cilada
